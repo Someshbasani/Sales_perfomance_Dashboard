@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Region,Product_Category,Sales_Representative,Sales_Amount,Quantity,Customer_Name
+ORD1000,6/10/2024,East,Electronics,Pooja Reddy,4423.32,7,Suresh Iyer
+ORD1001,6/24/2024,Central,Furniture,Sneha Jain,2729.85,1,Aman Khan
+ORD1002,1/29/2024,South,Clothing,Pooja Reddy,3816.86,5,Aman Khan
+ORD1003,12/20/2024,Central,Office Supplies,Aarti Sharma,4556.01,1,Meena Joshi
+ORD1004,3/12/2024,Central,Furniture,Pooja Reddy,4218.22,7,Vikram Rao
+ORD1005,5/1/2024,South,Electronics,Anil Kumar,391.29,8,Aman Khan
+ORD1006,8/10/2024,West,Electronics,Ravi Mehra,2511.08,9,Meena Joshi
+ORD1007,2/14/2024,East,Office Supplies,Anil Kumar,4648.89,3,Meena Joshi
+ORD1008,5/3/2024,East,Office Supplies,Sneha Jain,3325.94,3,Preeti Nair
+ORD1009,12/26/2024,North,Furniture,Sneha Jain,564.07,1,Arjun Kapoor
+ORD1010,11/4/2024,North,Clothing,Rajesh Verma,4018.93,2,Meena Joshi
+ORD1011,11/13/2024,West,Electronics,Neha Singh,3864.06,2,Preeti Nair
+ORD1012,7/1/2024,Central,Office Supplies,Neha Singh,475.58,3,Vikram Rao
+ORD1013,9/2/2024,West,Furniture,Sneha Jain,4184.17,7,Aman Khan
+ORD1014,11/18/2024,West,Clothing,Neha Singh,4237.28,1,Meena Joshi
+ORD1015,1/18/2024,South,Clothing,Sneha Jain,469.02,3,Vikram Rao
+ORD1016,9/2/2024,West,Office Supplies,Anil Kumar,4525.13,5,Vikram Rao
+ORD1017,8/10/2024,East,Furniture,Ravi Mehra,1295.26,1,Meena Joshi
+ORD1018,3/18/2024,South,Furniture,Pooja Reddy,1475,4,Suresh Iyer
+ORD1019,6/2/2024,North,Furniture,Anil Kumar,4596.44,2,Meena Joshi
+ORD1020,4/7/2024,East,Clothing,Pooja Reddy,123.9,8,Arjun Kapoor
+ORD1021,4/29/2024,East,Clothing,Sneha Jain,498.31,1,Vikram Rao
+ORD1022,2/24/2024,North,Clothing,Aarti Sharma,3925.56,5,Arjun Kapoor
+ORD1023,5/3/2024,Central,Furniture,Sneha Jain,4741.58,4,Suresh Iyer
+ORD1024,10/17/2024,West,Clothing,Aarti Sharma,2229.03,6,Vikram Rao
+ORD1025,12/21/2024,Central,Office Supplies,Rajesh Verma,1231.88,5,Preeti Nair
+ORD1026,7/30/2024,Central,Office Supplies,Rajesh Verma,3437.67,5,Arjun Kapoor
+ORD1027,2/15/2024,Central,Office Supplies,Aarti Sharma,4322.5,7,Meena Joshi
+ORD1028,12/20/2024,East,Furniture,Aarti Sharma,4162.65,1,Nisha Das
+ORD1029,8/10/2024,South,Electronics,Anil Kumar,324.38,9,Suresh Iyer
+ORD1030,6/18/2024,South,Office Supplies,Pooja Reddy,320.02,6,Arjun Kapoor
+ORD1031,6/9/2024,North,Furniture,Sneha Jain,1812.76,1,Meena Joshi
+ORD1032,11/22/2024,South,Clothing,Sneha Jain,4340.22,9,Suresh Iyer
+ORD1033,4/10/2024,North,Electronics,Anil Kumar,3766.76,7,Vikram Rao
+ORD1034,7/8/2024,North,Office Supplies,Anil Kumar,3437.43,6,Meena Joshi
+ORD1035,3/23/2024,North,Electronics,Neha Singh,3960.57,4,Suresh Iyer
+ORD1036,3/1/2024,South,Clothing,Pooja Reddy,2162.3,1,Meena Joshi
+ORD1037,4/1/2024,West,Furniture,Pooja Reddy,672.62,5,Meena Joshi
+ORD1038,4/21/2024,North,Office Supplies,Ravi Mehra,1551.4,3,Vikram Rao
+ORD1039,5/17/2024,East,Office Supplies,Anil Kumar,1200.74,1,Arjun Kapoor
+ORD1040,4/17/2024,West,Electronics,Neha Singh,1312.09,9,Nisha Das
+ORD1041,10/3/2024,North,Clothing,Neha Singh,2992.47,4,Nisha Das
+ORD1042,9/13/2024,East,Furniture,Anil Kumar,1430.8,2,Meena Joshi
+ORD1043,8/27/2024,North,Office Supplies,Aarti Sharma,3208.67,2,Vikram Rao
+ORD1044,4/9/2024,West,Office Supplies,Anil Kumar,4273.56,10,Suresh Iyer
+ORD1045,9/28/2024,North,Office Supplies,Sneha Jain,177.74,6,Vikram Rao
+ORD1046,1/22/2024,North,Furniture,Anil Kumar,463.68,10,Meena Joshi
+ORD1047,1/21/2024,South,Office Supplies,Aarti Sharma,3271.86,5,Vikram Rao
+ORD1048,1/22/2024,West,Furniture,Aarti Sharma,2429.69,2,Suresh Iyer
+ORD1049,4/24/2024,East,Office Supplies,Ravi Mehra,1960,7,Preeti Nair
+ORD1050,6/13/2024,South,Electronics,Rajesh Verma,1395.48,9,Nisha Das
+ORD1051,5/23/2024,South,Electronics,Pooja Reddy,3470.64,4,Aman Khan
+ORD1052,11/18/2024,South,Clothing,Rajesh Verma,4789.46,1,Vikram Rao
+ORD1053,1/3/2024,East,Office Supplies,Aarti Sharma,3123.22,7,Aman Khan
+ORD1054,4/22/2024,South,Clothing,Rajesh Verma,2906.12,5,Vikram Rao
+ORD1055,3/14/2024,East,Electronics,Anil Kumar,3369.2,7,Suresh Iyer
+ORD1056,11/20/2024,North,Office Supplies,Pooja Reddy,1283.42,9,Suresh Iyer
+ORD1057,3/3/2024,South,Office Supplies,Aarti Sharma,2114.76,6,Arjun Kapoor
+ORD1058,9/2/2024,North,Furniture,Sneha Jain,4203.17,2,Arjun Kapoor
+ORD1059,7/27/2024,North,Furniture,Rajesh Verma,2416.5,9,Meena Joshi
+ORD1060,10/5/2024,South,Furniture,Rajesh Verma,614.47,1,Meena Joshi
+ORD1061,2/2/2024,East,Electronics,Pooja Reddy,2570.63,1,Suresh Iyer
+ORD1062,5/17/2024,North,Furniture,Neha Singh,4992.96,8,Preeti Nair
+ORD1063,7/5/2024,South,Clothing,Ravi Mehra,261.91,6,Arjun Kapoor
+ORD1064,11/30/2024,Central,Furniture,Ravi Mehra,2860.3,4,Vikram Rao
+ORD1065,7/13/2024,Central,Electronics,Aarti Sharma,4863.9,2,Aman Khan
+ORD1066,5/10/2024,Central,Office Supplies,Pooja Reddy,979.7,5,Nisha Das
+ORD1067,10/24/2024,Central,Furniture,Rajesh Verma,4682.44,5,Vikram Rao
+ORD1068,1/17/2024,West,Office Supplies,Sneha Jain,3970.29,5,Arjun Kapoor
+ORD1069,10/31/2024,South,Furniture,Ravi Mehra,2769.17,9,Vikram Rao
+ORD1070,10/10/2024,Central,Furniture,Neha Singh,4294.65,2,Preeti Nair
+ORD1071,1/23/2024,East,Clothing,Pooja Reddy,809.59,3,Meena Joshi
+ORD1072,12/24/2024,East,Clothing,Pooja Reddy,1836.66,5,Meena Joshi
+ORD1073,8/29/2024,North,Office Supplies,Rajesh Verma,3404.26,9,Aman Khan
+ORD1074,12/22/2024,South,Furniture,Anil Kumar,694.63,1,Vikram Rao
+ORD1075,8/14/2024,West,Electronics,Pooja Reddy,2779.51,8,Nisha Das
+ORD1076,1/24/2024,West,Clothing,Rajesh Verma,3863.94,7,Preeti Nair
+ORD1077,9/8/2024,West,Clothing,Pooja Reddy,3975.68,1,Preeti Nair
+ORD1078,3/14/2024,East,Office Supplies,Sneha Jain,1146.95,1,Preeti Nair
+ORD1079,4/22/2024,Central,Electronics,Rajesh Verma,2650.93,3,Suresh Iyer
+ORD1080,2/4/2024,West,Office Supplies,Anil Kumar,2638.58,6,Suresh Iyer
+ORD1081,1/15/2024,South,Electronics,Ravi Mehra,540.99,1,Aman Khan
+ORD1082,8/28/2024,Central,Electronics,Anil Kumar,859.15,3,Suresh Iyer
+ORD1083,8/9/2024,North,Clothing,Sneha Jain,1500.95,3,Suresh Iyer
+ORD1084,10/31/2024,West,Office Supplies,Ravi Mehra,2061.67,2,Preeti Nair
+ORD1085,2/16/2024,West,Clothing,Aarti Sharma,3280.99,5,Arjun Kapoor
+ORD1086,7/22/2024,South,Office Supplies,Sneha Jain,3354.65,8,Arjun Kapoor
+ORD1087,12/4/2024,North,Furniture,Aarti Sharma,4658.57,7,Suresh Iyer
+ORD1088,11/27/2024,East,Furniture,Pooja Reddy,2161.76,7,Preeti Nair
+ORD1089,4/6/2024,East,Office Supplies,Neha Singh,4703.07,9,Preeti Nair
+ORD1090,5/23/2024,East,Furniture,Rajesh Verma,2928.5,6,Arjun Kapoor
+ORD1091,7/9/2024,East,Clothing,Neha Singh,3643.5,7,Suresh Iyer
+ORD1092,8/29/2024,West,Electronics,Rajesh Verma,2168.21,2,Preeti Nair
+ORD1093,7/7/2024,North,Furniture,Anil Kumar,2135.1,1,Preeti Nair
+ORD1094,11/27/2024,North,Electronics,Rajesh Verma,742.93,3,Meena Joshi
+ORD1095,9/20/2024,North,Furniture,Aarti Sharma,2579.24,8,Vikram Rao
+ORD1096,3/28/2024,North,Furniture,Sneha Jain,1733.34,4,Arjun Kapoor
+ORD1097,7/25/2024,West,Furniture,Rajesh Verma,248.82,8,Aman Khan
+ORD1098,10/18/2024,Central,Clothing,Neha Singh,4770.37,8,Vikram Rao
+ORD1099,4/12/2024,West,Office Supplies,Neha Singh,1745.34,7,Preeti Nair
+ORD1100,8/29/2024,Central,Clothing,Ravi Mehra,4116.57,2,Aman Khan
+ORD1101,10/20/2024,East,Office Supplies,Aarti Sharma,2568.89,5,Vikram Rao
+ORD1102,3/14/2024,South,Clothing,Rajesh Verma,4592.72,8,Meena Joshi
+ORD1103,3/24/2024,East,Electronics,Neha Singh,2402.66,3,Vikram Rao
+ORD1104,8/17/2024,Central,Electronics,Aarti Sharma,294.58,1,Suresh Iyer
+ORD1105,9/21/2024,Central,Electronics,Ravi Mehra,979.8,6,Nisha Das
+ORD1106,2/17/2024,South,Office Supplies,Pooja Reddy,529.16,10,Nisha Das
+ORD1107,3/24/2024,West,Office Supplies,Neha Singh,4126.13,5,Arjun Kapoor
+ORD1108,12/26/2024,West,Clothing,Pooja Reddy,4520.96,8,Suresh Iyer
+ORD1109,1/9/2024,East,Office Supplies,Sneha Jain,4699.12,8,Vikram Rao
+ORD1110,3/8/2024,South,Office Supplies,Pooja Reddy,1596.62,10,Preeti Nair
+ORD1111,3/1/2024,West,Furniture,Sneha Jain,515.46,5,Preeti Nair
+ORD1112,9/4/2024,Central,Furniture,Ravi Mehra,2869.01,4,Nisha Das
+ORD1113,2/19/2024,North,Electronics,Anil Kumar,2821.6,8,Vikram Rao
+ORD1114,7/3/2024,South,Office Supplies,Ravi Mehra,4619.15,1,Meena Joshi
+ORD1115,4/1/2024,East,Office Supplies,Rajesh Verma,830.49,7,Meena Joshi
+ORD1116,4/28/2024,East,Clothing,Pooja Reddy,845.31,1,Vikram Rao
+ORD1117,1/31/2024,Central,Office Supplies,Aarti Sharma,1498.63,10,Suresh Iyer
+ORD1118,6/5/2024,West,Clothing,Sneha Jain,4722.25,1,Arjun Kapoor
+ORD1119,8/22/2024,South,Furniture,Sneha Jain,4722.83,2,Suresh Iyer
+ORD1120,5/8/2024,West,Electronics,Pooja Reddy,140.77,3,Vikram Rao
+ORD1121,4/1/2024,West,Electronics,Ravi Mehra,1724.12,1,Nisha Das
+ORD1122,6/17/2024,South,Electronics,Rajesh Verma,1444.69,2,Vikram Rao
+ORD1123,9/22/2024,Central,Office Supplies,Anil Kumar,1331.01,9,Suresh Iyer
+ORD1124,5/23/2024,Central,Office Supplies,Pooja Reddy,3006.11,7,Suresh Iyer
+ORD1125,1/25/2024,South,Electronics,Ravi Mehra,183.9,6,Meena Joshi
+ORD1126,2/20/2024,East,Office Supplies,Pooja Reddy,4417.05,8,Aman Khan
+ORD1127,11/7/2024,Central,Office Supplies,Rajesh Verma,4627.77,4,Aman Khan
+ORD1128,12/3/2024,North,Furniture,Aarti Sharma,1894.87,8,Vikram Rao
+ORD1129,7/8/2024,Central,Clothing,Sneha Jain,3299.32,5,Meena Joshi
+ORD1130,9/12/2024,North,Office Supplies,Sneha Jain,1976.25,4,Vikram Rao
+ORD1131,7/4/2024,North,Office Supplies,Sneha Jain,2233.86,9,Nisha Das
+ORD1132,6/5/2024,South,Clothing,Ravi Mehra,2357.22,10,Meena Joshi
+ORD1133,12/29/2024,East,Electronics,Rajesh Verma,3387.23,3,Suresh Iyer
+ORD1134,2/13/2024,East,Furniture,Sneha Jain,3753.17,6,Preeti Nair
+ORD1135,10/14/2024,East,Office Supplies,Pooja Reddy,4207.23,8,Aman Khan
+ORD1136,12/20/2024,South,Furniture,Pooja Reddy,3436.91,2,Aman Khan
+ORD1137,9/21/2024,North,Office Supplies,Pooja Reddy,1635.79,6,Arjun Kapoor
+ORD1138,10/17/2024,Central,Furniture,Rajesh Verma,545.51,3,Aman Khan
+ORD1139,4/12/2024,East,Furniture,Ravi Mehra,3764.52,10,Meena Joshi
+ORD1140,11/10/2024,North,Electronics,Rajesh Verma,4855.15,8,Arjun Kapoor
+ORD1141,10/29/2024,Central,Office Supplies,Rajesh Verma,526.57,5,Vikram Rao
+ORD1142,12/18/2024,North,Electronics,Aarti Sharma,1306.69,8,Arjun Kapoor
+ORD1143,11/25/2024,West,Furniture,Rajesh Verma,4263.17,7,Preeti Nair
+ORD1144,5/27/2024,North,Electronics,Ravi Mehra,2729.4,6,Vikram Rao
+ORD1145,1/13/2024,Central,Furniture,Rajesh Verma,2926.94,5,Meena Joshi
+ORD1146,2/15/2024,North,Office Supplies,Pooja Reddy,4569.47,9,Vikram Rao
+ORD1147,2/9/2024,Central,Furniture,Neha Singh,4615.52,6,Aman Khan
+ORD1148,1/12/2024,South,Office Supplies,Ravi Mehra,1490.24,4,Vikram Rao
+ORD1149,4/25/2024,Central,Furniture,Aarti Sharma,2910.77,8,Suresh Iyer
+ORD1150,8/8/2024,East,Furniture,Neha Singh,1116.77,6,Vikram Rao
+ORD1151,8/1/2024,East,Electronics,Rajesh Verma,2118.94,3,Nisha Das
+ORD1152,3/31/2024,North,Furniture,Aarti Sharma,1033.28,6,Aman Khan
+ORD1153,5/25/2024,West,Furniture,Pooja Reddy,4919.58,2,Arjun Kapoor
+ORD1154,10/1/2024,Central,Office Supplies,Ravi Mehra,3360.97,8,Aman Khan
+ORD1155,8/29/2024,West,Clothing,Neha Singh,4210.9,6,Nisha Das
+ORD1156,11/15/2024,North,Clothing,Ravi Mehra,282.16,3,Aman Khan
+ORD1157,3/10/2024,West,Furniture,Ravi Mehra,4998.12,10,Meena Joshi
+ORD1158,4/13/2024,West,Furniture,Sneha Jain,3879.96,9,Suresh Iyer
+ORD1159,9/9/2024,Central,Electronics,Ravi Mehra,1286.31,9,Preeti Nair
+ORD1160,11/8/2024,West,Office Supplies,Sneha Jain,610.33,5,Suresh Iyer
+ORD1161,12/11/2024,South,Clothing,Anil Kumar,1694.24,7,Suresh Iyer
+ORD1162,4/16/2024,East,Furniture,Pooja Reddy,1372.25,3,Nisha Das
+ORD1163,4/13/2024,Central,Electronics,Neha Singh,2471.45,6,Meena Joshi
+ORD1164,11/9/2024,North,Office Supplies,Aarti Sharma,3468.88,2,Aman Khan
+ORD1165,10/14/2024,West,Furniture,Sneha Jain,1426.58,7,Nisha Das
+ORD1166,5/10/2024,South,Clothing,Neha Singh,155.3,3,Preeti Nair
+ORD1167,6/1/2024,Central,Office Supplies,Pooja Reddy,124.77,8,Vikram Rao
+ORD1168,5/5/2024,South,Office Supplies,Neha Singh,2108.27,1,Aman Khan
+ORD1169,3/9/2024,Central,Electronics,Aarti Sharma,4852.65,2,Nisha Das
+ORD1170,11/16/2024,East,Furniture,Rajesh Verma,353.99,10,Vikram Rao
+ORD1171,8/25/2024,South,Electronics,Pooja Reddy,4235.83,1,Suresh Iyer
+ORD1172,10/14/2024,North,Furniture,Anil Kumar,3622.64,4,Suresh Iyer
+ORD1173,6/15/2024,East,Office Supplies,Sneha Jain,904.3,4,Vikram Rao
+ORD1174,7/18/2024,East,Electronics,Sneha Jain,4330.88,1,Arjun Kapoor
+ORD1175,3/17/2024,West,Office Supplies,Sneha Jain,583.13,1,Meena Joshi
+ORD1176,10/22/2024,East,Electronics,Aarti Sharma,479.82,1,Meena Joshi
+ORD1177,3/8/2024,West,Furniture,Ravi Mehra,446.84,8,Preeti Nair
+ORD1178,8/24/2024,West,Furniture,Rajesh Verma,4907.08,5,Suresh Iyer
+ORD1179,4/17/2024,Central,Electronics,Pooja Reddy,751.03,5,Meena Joshi
+ORD1180,4/16/2024,East,Furniture,Aarti Sharma,898.13,1,Aman Khan
+ORD1181,7/31/2024,South,Clothing,Rajesh Verma,3432.49,9,Suresh Iyer
+ORD1182,12/17/2024,East,Clothing,Aarti Sharma,2420.85,9,Arjun Kapoor
+ORD1183,4/16/2024,East,Office Supplies,Anil Kumar,3270.31,5,Vikram Rao
+ORD1184,4/9/2024,East,Clothing,Rajesh Verma,2149.95,1,Suresh Iyer
+ORD1185,3/12/2024,North,Office Supplies,Aarti Sharma,3963.05,7,Aman Khan
+ORD1186,8/22/2024,South,Clothing,Ravi Mehra,2586.52,3,Suresh Iyer
+ORD1187,3/15/2024,South,Clothing,Neha Singh,2676.71,7,Preeti Nair
+ORD1188,9/9/2024,Central,Clothing,Sneha Jain,4190.26,6,Suresh Iyer
+ORD1189,1/15/2024,South,Electronics,Rajesh Verma,3801.99,3,Aman Khan
+ORD1190,1/18/2024,West,Electronics,Anil Kumar,2463.22,5,Suresh Iyer
+ORD1191,11/14/2024,Central,Office Supplies,Aarti Sharma,621.21,6,Meena Joshi
+ORD1192,7/19/2024,North,Office Supplies,Neha Singh,4793.82,9,Aman Khan
+ORD1193,3/23/2024,Central,Electronics,Anil Kumar,3594.64,1,Preeti Nair
+ORD1194,5/27/2024,North,Furniture,Neha Singh,3386.81,3,Meena Joshi
+ORD1195,3/12/2024,North,Office Supplies,Pooja Reddy,3752.77,8,Meena Joshi
+ORD1196,2/6/2024,North,Furniture,Pooja Reddy,3025.13,3,Meena Joshi
+ORD1197,7/19/2024,South,Furniture,Rajesh Verma,4568.88,6,Suresh Iyer
+ORD1198,3/6/2024,West,Electronics,Anil Kumar,441.57,1,Arjun Kapoor
+ORD1199,9/1/2024,Central,Electronics,Pooja Reddy,1897.17,6,Preeti Nair
+ORD1200,7/9/2024,Central,Electronics,Ravi Mehra,3365.52,7,Vikram Rao
+ORD1201,7/12/2024,West,Electronics,Ravi Mehra,2619.38,5,Preeti Nair
+ORD1202,11/13/2024,North,Office Supplies,Neha Singh,2775.82,8,Suresh Iyer
+ORD1203,10/25/2024,East,Office Supplies,Ravi Mehra,2200.88,3,Nisha Das
+ORD1204,6/1/2024,Central,Furniture,Rajesh Verma,3570.36,10,Aman Khan
+ORD1205,10/22/2024,South,Furniture,Anil Kumar,4747,2,Suresh Iyer
+ORD1206,11/12/2024,North,Furniture,Anil Kumar,4426.55,10,Nisha Das
+ORD1207,7/3/2024,South,Electronics,Anil Kumar,218.92,7,Meena Joshi
+ORD1208,10/2/2024,South,Clothing,Rajesh Verma,1079.75,3,Aman Khan
+ORD1209,8/27/2024,East,Furniture,Aarti Sharma,151.94,3,Vikram Rao
+ORD1210,12/14/2024,East,Furniture,Ravi Mehra,1808.04,7,Vikram Rao
+ORD1211,6/14/2024,South,Office Supplies,Ravi Mehra,2985.08,5,Preeti Nair
+ORD1212,5/29/2024,East,Furniture,Ravi Mehra,4225,7,Preeti Nair
+ORD1213,9/30/2024,East,Clothing,Ravi Mehra,3167.7,4,Nisha Das
+ORD1214,11/14/2024,Central,Electronics,Pooja Reddy,4558.62,5,Arjun Kapoor
+ORD1215,3/7/2024,Central,Office Supplies,Sneha Jain,520.57,10,Suresh Iyer
+ORD1216,1/4/2024,East,Clothing,Anil Kumar,4810.1,2,Meena Joshi
+ORD1217,10/5/2024,West,Clothing,Pooja Reddy,2611.62,4,Suresh Iyer
+ORD1218,1/11/2024,South,Clothing,Aarti Sharma,2196.56,9,Meena Joshi
+ORD1219,7/21/2024,East,Clothing,Neha Singh,815.83,10,Meena Joshi
+ORD1220,6/13/2024,North,Clothing,Anil Kumar,2734.55,4,Vikram Rao
+ORD1221,10/8/2024,North,Clothing,Anil Kumar,1781.56,9,Meena Joshi
+ORD1222,9/10/2024,North,Furniture,Neha Singh,4495.39,3,Vikram Rao
+ORD1223,9/1/2024,East,Electronics,Anil Kumar,372.93,9,Arjun Kapoor
+ORD1224,7/21/2024,East,Office Supplies,Ravi Mehra,3859.96,6,Meena Joshi
+ORD1225,3/18/2024,South,Furniture,Anil Kumar,2621.33,1,Suresh Iyer
+ORD1226,10/7/2024,South,Clothing,Neha Singh,2126.67,6,Meena Joshi
+ORD1227,4/18/2024,Central,Clothing,Aarti Sharma,3533.24,1,Meena Joshi
+ORD1228,3/8/2024,East,Clothing,Anil Kumar,2770.51,10,Preeti Nair
+ORD1229,3/28/2024,North,Furniture,Sneha Jain,2265.28,5,Meena Joshi
+ORD1230,11/23/2024,South,Furniture,Aarti Sharma,4016.98,10,Aman Khan
+ORD1231,10/27/2024,South,Clothing,Pooja Reddy,2949.95,4,Aman Khan
+ORD1232,9/28/2024,North,Office Supplies,Pooja Reddy,4871.57,9,Nisha Das
+ORD1233,11/29/2024,East,Furniture,Aarti Sharma,2128.99,1,Arjun Kapoor
+ORD1234,12/23/2024,South,Clothing,Sneha Jain,2315.57,6,Vikram Rao
+ORD1235,2/22/2024,North,Furniture,Sneha Jain,4896.66,3,Arjun Kapoor
+ORD1236,3/9/2024,South,Office Supplies,Neha Singh,1922.59,5,Nisha Das
+ORD1237,6/9/2024,Central,Furniture,Neha Singh,2187.73,9,Suresh Iyer
+ORD1238,9/16/2024,North,Furniture,Neha Singh,2060.87,3,Arjun Kapoor
+ORD1239,10/8/2024,East,Furniture,Sneha Jain,1246.07,10,Aman Khan
+ORD1240,1/27/2024,East,Office Supplies,Neha Singh,4973.51,2,Vikram Rao
+ORD1241,10/15/2024,South,Electronics,Anil Kumar,3216.39,2,Arjun Kapoor
+ORD1242,10/5/2024,North,Office Supplies,Ravi Mehra,257.44,5,Arjun Kapoor
+ORD1243,4/20/2024,South,Electronics,Aarti Sharma,2413.87,9,Nisha Das
+ORD1244,11/26/2024,East,Office Supplies,Ravi Mehra,3399.98,8,Meena Joshi
+ORD1245,8/1/2024,South,Electronics,Rajesh Verma,3666.56,7,Arjun Kapoor
+ORD1246,9/1/2024,South,Electronics,Pooja Reddy,770.92,6,Aman Khan
+ORD1247,10/28/2024,West,Clothing,Pooja Reddy,382.81,6,Meena Joshi
+ORD1248,8/18/2024,West,Electronics,Anil Kumar,3375.07,3,Suresh Iyer
+ORD1249,8/30/2024,East,Electronics,Aarti Sharma,2409.34,1,Suresh Iyer
+ORD1250,3/9/2024,Central,Clothing,Anil Kumar,1743.41,9,Arjun Kapoor
+ORD1251,9/29/2024,South,Furniture,Rajesh Verma,3659.41,8,Aman Khan
+ORD1252,11/3/2024,North,Electronics,Aarti Sharma,753.85,2,Vikram Rao
+ORD1253,5/28/2024,South,Clothing,Neha Singh,1578.67,8,Arjun Kapoor
+ORD1254,9/28/2024,North,Furniture,Aarti Sharma,1609.37,5,Preeti Nair
+ORD1255,4/4/2024,East,Clothing,Sneha Jain,1939.38,6,Nisha Das
+ORD1256,1/23/2024,North,Office Supplies,Pooja Reddy,4209.17,5,Aman Khan
+ORD1257,12/16/2024,West,Electronics,Aarti Sharma,2435.08,3,Suresh Iyer
+ORD1258,7/30/2024,West,Furniture,Aarti Sharma,2957.69,3,Arjun Kapoor
+ORD1259,7/6/2024,North,Office Supplies,Pooja Reddy,2779.21,6,Preeti Nair
+ORD1260,12/6/2024,Central,Clothing,Pooja Reddy,154.95,7,Vikram Rao
+ORD1261,10/25/2024,North,Clothing,Aarti Sharma,1812.97,6,Preeti Nair
+ORD1262,7/29/2024,South,Electronics,Pooja Reddy,2385.22,4,Meena Joshi
+ORD1263,3/29/2024,North,Electronics,Sneha Jain,535.89,3,Aman Khan
+ORD1264,4/24/2024,West,Electronics,Rajesh Verma,4917.84,2,Arjun Kapoor
+ORD1265,10/16/2024,West,Furniture,Aarti Sharma,4294.14,8,Vikram Rao
+ORD1266,7/6/2024,East,Office Supplies,Rajesh Verma,719.05,10,Vikram Rao
+ORD1267,1/28/2024,West,Clothing,Ravi Mehra,3089.9,5,Suresh Iyer
+ORD1268,7/2/2024,West,Electronics,Pooja Reddy,4352.82,7,Nisha Das
+ORD1269,12/29/2024,North,Furniture,Neha Singh,1199.69,9,Aman Khan
+ORD1270,8/4/2024,North,Electronics,Rajesh Verma,2662.45,6,Vikram Rao
+ORD1271,3/4/2024,West,Electronics,Aarti Sharma,3440.68,6,Arjun Kapoor
+ORD1272,5/13/2024,Central,Clothing,Rajesh Verma,862.02,1,Aman Khan
+ORD1273,12/17/2024,East,Electronics,Sneha Jain,2580.46,8,Arjun Kapoor
+ORD1274,3/13/2024,West,Electronics,Pooja Reddy,1924.59,10,Meena Joshi
+ORD1275,5/2/2024,West,Electronics,Ravi Mehra,2561.71,1,Vikram Rao
+ORD1276,12/3/2024,East,Electronics,Neha Singh,3086.42,9,Preeti Nair
+ORD1277,4/19/2024,South,Office Supplies,Sneha Jain,1322.25,4,Suresh Iyer
+ORD1278,3/19/2024,West,Office Supplies,Neha Singh,1528.43,8,Preeti Nair
+ORD1279,6/2/2024,Central,Office Supplies,Anil Kumar,3104.99,10,Vikram Rao
+ORD1280,12/12/2024,East,Office Supplies,Rajesh Verma,1517.21,4,Nisha Das
+ORD1281,3/18/2024,South,Electronics,Sneha Jain,682.05,8,Nisha Das
+ORD1282,8/4/2024,East,Electronics,Aarti Sharma,1796.9,2,Arjun Kapoor
+ORD1283,2/14/2024,South,Office Supplies,Anil Kumar,2361.47,2,Meena Joshi
+ORD1284,8/14/2024,Central,Clothing,Neha Singh,313.53,10,Arjun Kapoor
+ORD1285,9/30/2024,East,Clothing,Sneha Jain,545.35,2,Meena Joshi
+ORD1286,9/5/2024,East,Clothing,Anil Kumar,4028.48,6,Vikram Rao
+ORD1287,7/2/2024,East,Furniture,Anil Kumar,4203.36,7,Suresh Iyer
+ORD1288,10/6/2024,West,Office Supplies,Anil Kumar,3181.21,5,Meena Joshi
+ORD1289,6/1/2024,South,Electronics,Sneha Jain,2988.72,10,Nisha Das
+ORD1290,3/23/2024,North,Electronics,Pooja Reddy,3237.47,2,Aman Khan
+ORD1291,12/25/2024,South,Office Supplies,Pooja Reddy,1047.92,8,Meena Joshi
+ORD1292,8/26/2024,East,Electronics,Sneha Jain,764.99,2,Nisha Das
+ORD1293,3/29/2024,South,Furniture,Neha Singh,2145.13,1,Suresh Iyer
+ORD1294,7/26/2024,Central,Furniture,Ravi Mehra,4275.99,2,Suresh Iyer
+ORD1295,7/25/2024,South,Electronics,Aarti Sharma,2547.8,2,Arjun Kapoor
+ORD1296,9/7/2024,East,Furniture,Sneha Jain,1492.09,9,Suresh Iyer
+ORD1297,2/8/2024,Central,Clothing,Rajesh Verma,4591.65,4,Vikram Rao
+ORD1298,11/28/2024,Central,Electronics,Neha Singh,1334.51,1,Meena Joshi
+ORD1299,2/11/2024,East,Electronics,Anil Kumar,3463.43,4,Preeti Nair
+ORD1300,5/30/2024,East,Furniture,Anil Kumar,4790.89,5,Aman Khan
+ORD1301,7/30/2024,North,Clothing,Sneha Jain,1038.29,4,Suresh Iyer
+ORD1302,12/25/2024,Central,Furniture,Ravi Mehra,2926.79,5,Preeti Nair
+ORD1303,12/27/2024,Central,Clothing,Rajesh Verma,1350.62,8,Vikram Rao
+ORD1304,1/8/2024,East,Clothing,Rajesh Verma,4323.88,3,Suresh Iyer
+ORD1305,1/26/2024,Central,Furniture,Anil Kumar,2154.3,6,Preeti Nair
+ORD1306,4/27/2024,East,Clothing,Sneha Jain,2058.27,3,Aman Khan
+ORD1307,11/22/2024,Central,Clothing,Rajesh Verma,3085.66,7,Aman Khan
+ORD1308,10/23/2024,West,Electronics,Neha Singh,3008.22,5,Nisha Das
+ORD1309,11/10/2024,Central,Office Supplies,Rajesh Verma,4286.2,10,Nisha Das
+ORD1310,12/16/2024,North,Electronics,Aarti Sharma,679.66,1,Arjun Kapoor
+ORD1311,2/13/2024,Central,Clothing,Sneha Jain,1744.02,7,Aman Khan
+ORD1312,1/10/2024,North,Furniture,Aarti Sharma,2225.3,10,Nisha Das
+ORD1313,2/3/2024,South,Office Supplies,Rajesh Verma,3713.01,10,Meena Joshi
+ORD1314,7/31/2024,West,Clothing,Pooja Reddy,4524.99,1,Suresh Iyer
+ORD1315,2/20/2024,West,Clothing,Ravi Mehra,1706.79,6,Nisha Das
+ORD1316,6/21/2024,Central,Office Supplies,Rajesh Verma,4117.65,2,Meena Joshi
+ORD1317,7/14/2024,East,Furniture,Rajesh Verma,166.14,10,Preeti Nair
+ORD1318,2/13/2024,East,Furniture,Sneha Jain,1769.46,10,Meena Joshi
+ORD1319,6/10/2024,West,Office Supplies,Neha Singh,2110.51,10,Vikram Rao
+ORD1320,3/3/2024,North,Office Supplies,Neha Singh,2852.79,8,Meena Joshi
+ORD1321,1/18/2024,Central,Clothing,Rajesh Verma,1801.99,8,Meena Joshi
+ORD1322,1/29/2024,South,Electronics,Rajesh Verma,2663.25,5,Suresh Iyer
+ORD1323,8/2/2024,North,Furniture,Sneha Jain,4403.56,8,Arjun Kapoor
+ORD1324,8/17/2024,Central,Clothing,Anil Kumar,377.05,3,Aman Khan
+ORD1325,8/13/2024,South,Furniture,Anil Kumar,3826.54,8,Vikram Rao
+ORD1326,10/7/2024,Central,Office Supplies,Ravi Mehra,4266.94,1,Suresh Iyer
+ORD1327,2/8/2024,South,Furniture,Ravi Mehra,4403.06,7,Arjun Kapoor
+ORD1328,3/6/2024,East,Electronics,Anil Kumar,3709.98,7,Preeti Nair
+ORD1329,9/30/2024,West,Office Supplies,Pooja Reddy,3837.92,5,Suresh Iyer
+ORD1330,11/10/2024,North,Furniture,Pooja Reddy,2364.89,6,Aman Khan
+ORD1331,6/6/2024,South,Office Supplies,Neha Singh,1783.58,1,Nisha Das
+ORD1332,1/14/2024,East,Office Supplies,Anil Kumar,2875.09,10,Aman Khan
+ORD1333,11/11/2024,East,Furniture,Rajesh Verma,1992.55,4,Suresh Iyer
+ORD1334,8/21/2024,South,Office Supplies,Sneha Jain,4290.54,7,Preeti Nair
+ORD1335,12/23/2024,South,Clothing,Aarti Sharma,2386.58,2,Meena Joshi
+ORD1336,11/8/2024,West,Furniture,Pooja Reddy,2108.04,2,Vikram Rao
+ORD1337,11/5/2024,South,Clothing,Sneha Jain,752.35,4,Aman Khan
+ORD1338,10/30/2024,West,Office Supplies,Pooja Reddy,4226.05,1,Vikram Rao
+ORD1339,1/10/2024,East,Electronics,Aarti Sharma,3999.46,8,Nisha Das
+ORD1340,6/27/2024,South,Furniture,Ravi Mehra,4139.81,9,Meena Joshi
+ORD1341,4/3/2024,North,Clothing,Neha Singh,922.23,2,Suresh Iyer
+ORD1342,6/15/2024,Central,Furniture,Sneha Jain,3398.06,1,Aman Khan
+ORD1343,7/28/2024,South,Clothing,Anil Kumar,4460.89,1,Vikram Rao
+ORD1344,6/1/2024,Central,Clothing,Sneha Jain,3979.73,7,Nisha Das
+ORD1345,12/12/2024,East,Clothing,Ravi Mehra,660.54,6,Vikram Rao
+ORD1346,1/23/2024,North,Office Supplies,Sneha Jain,2065.09,5,Preeti Nair
+ORD1347,12/23/2024,South,Electronics,Ravi Mehra,4881.17,7,Suresh Iyer
+ORD1348,7/24/2024,Central,Office Supplies,Neha Singh,3293.74,10,Vikram Rao
+ORD1349,8/17/2024,North,Electronics,Aarti Sharma,109.88,7,Preeti Nair
+ORD1350,5/10/2024,North,Office Supplies,Rajesh Verma,2696.75,6,Suresh Iyer
+ORD1351,3/28/2024,South,Furniture,Pooja Reddy,3315.59,5,Arjun Kapoor
+ORD1352,1/4/2024,South,Office Supplies,Aarti Sharma,4856.24,2,Vikram Rao
+ORD1353,4/7/2024,South,Electronics,Aarti Sharma,936.5,5,Preeti Nair
+ORD1354,5/24/2024,North,Furniture,Sneha Jain,1338.98,7,Suresh Iyer
+ORD1355,10/26/2024,Central,Office Supplies,Neha Singh,1256.94,5,Suresh Iyer
+ORD1356,2/28/2024,North,Electronics,Sneha Jain,4788.07,6,Aman Khan
+ORD1357,1/16/2024,South,Furniture,Neha Singh,1957.88,1,Arjun Kapoor
+ORD1358,8/14/2024,East,Clothing,Ravi Mehra,3117.13,7,Suresh Iyer
+ORD1359,11/27/2024,West,Office Supplies,Pooja Reddy,4285.78,8,Nisha Das
+ORD1360,6/9/2024,Central,Electronics,Aarti Sharma,3053.07,2,Aman Khan
+ORD1361,7/13/2024,West,Furniture,Neha Singh,2867.37,9,Arjun Kapoor
+ORD1362,1/5/2024,Central,Office Supplies,Aarti Sharma,4656.98,3,Suresh Iyer
+ORD1363,2/18/2024,East,Furniture,Anil Kumar,3766.84,5,Meena Joshi
+ORD1364,11/4/2024,Central,Clothing,Anil Kumar,4438.99,5,Meena Joshi
+ORD1365,10/7/2024,Central,Furniture,Neha Singh,2213.01,10,Preeti Nair
+ORD1366,5/2/2024,West,Furniture,Sneha Jain,758.72,8,Aman Khan
+ORD1367,1/18/2024,South,Furniture,Rajesh Verma,812.52,6,Aman Khan
+ORD1368,12/20/2024,North,Furniture,Aarti Sharma,1586.64,1,Suresh Iyer
+ORD1369,9/1/2024,West,Office Supplies,Rajesh Verma,179.89,4,Nisha Das
+ORD1370,7/27/2024,Central,Electronics,Pooja Reddy,3690.56,8,Meena Joshi
+ORD1371,4/12/2024,East,Office Supplies,Pooja Reddy,2670.04,7,Meena Joshi
+ORD1372,9/29/2024,West,Electronics,Rajesh Verma,4180.1,2,Preeti Nair
+ORD1373,1/7/2024,South,Clothing,Neha Singh,2065.77,3,Vikram Rao
+ORD1374,2/28/2024,Central,Clothing,Rajesh Verma,2523.56,7,Nisha Das
+ORD1375,1/23/2024,Central,Furniture,Rajesh Verma,2139.99,9,Aman Khan
+ORD1376,7/13/2024,North,Office Supplies,Neha Singh,563.55,4,Suresh Iyer
+ORD1377,4/17/2024,East,Electronics,Pooja Reddy,2493.89,6,Aman Khan
+ORD1378,3/1/2024,South,Clothing,Sneha Jain,3827.11,6,Nisha Das
+ORD1379,11/13/2024,North,Clothing,Neha Singh,2429.11,4,Arjun Kapoor
+ORD1380,7/16/2024,Central,Furniture,Rajesh Verma,1436.14,3,Nisha Das
+ORD1381,3/23/2024,South,Office Supplies,Anil Kumar,3096.89,9,Preeti Nair
+ORD1382,4/9/2024,Central,Clothing,Aarti Sharma,1000.74,6,Vikram Rao
+ORD1383,8/19/2024,East,Office Supplies,Aarti Sharma,228.4,1,Aman Khan
+ORD1384,6/12/2024,East,Office Supplies,Neha Singh,2903.26,6,Meena Joshi
+ORD1385,6/15/2024,Central,Office Supplies,Neha Singh,4574.6,1,Aman Khan
+ORD1386,5/8/2024,West,Office Supplies,Pooja Reddy,2688.25,5,Nisha Das
+ORD1387,9/1/2024,South,Electronics,Pooja Reddy,4462.98,5,Arjun Kapoor
+ORD1388,7/4/2024,East,Electronics,Pooja Reddy,2970.42,7,Vikram Rao
+ORD1389,8/14/2024,Central,Electronics,Neha Singh,892.15,7,Nisha Das
+ORD1390,12/12/2024,North,Clothing,Neha Singh,1807.27,10,Suresh Iyer
+ORD1391,6/18/2024,West,Electronics,Rajesh Verma,3961.2,2,Nisha Das
+ORD1392,4/9/2024,West,Electronics,Aarti Sharma,1636.21,5,Vikram Rao
+ORD1393,6/8/2024,East,Office Supplies,Pooja Reddy,2689.76,1,Arjun Kapoor
+ORD1394,10/9/2024,North,Electronics,Rajesh Verma,3207.03,5,Suresh Iyer
+ORD1395,12/20/2024,West,Clothing,Ravi Mehra,568.2,1,Suresh Iyer
+ORD1396,11/8/2024,East,Electronics,Aarti Sharma,723.97,9,Meena Joshi
+ORD1397,3/23/2024,North,Office Supplies,Anil Kumar,1802.46,5,Suresh Iyer
+ORD1398,4/22/2024,South,Office Supplies,Sneha Jain,4418.33,7,Suresh Iyer
+ORD1399,12/1/2024,West,Office Supplies,Pooja Reddy,2719.85,3,Arjun Kapoor
+ORD1400,6/13/2024,West,Office Supplies,Neha Singh,4168.45,3,Suresh Iyer
+ORD1401,4/22/2024,North,Electronics,Pooja Reddy,1266.28,7,Nisha Das
+ORD1402,3/25/2024,Central,Furniture,Ravi Mehra,2789.44,4,Nisha Das
+ORD1403,10/3/2024,West,Clothing,Aarti Sharma,3943.83,10,Aman Khan
+ORD1404,6/2/2024,Central,Office Supplies,Aarti Sharma,1914.95,7,Meena Joshi
+ORD1405,9/24/2024,Central,Clothing,Pooja Reddy,1449.38,6,Nisha Das
+ORD1406,12/3/2024,North,Clothing,Sneha Jain,310.96,5,Aman Khan
+ORD1407,3/29/2024,East,Electronics,Anil Kumar,1694.29,1,Preeti Nair
+ORD1408,4/25/2024,South,Office Supplies,Neha Singh,2253.45,2,Vikram Rao
+ORD1409,6/1/2024,East,Furniture,Rajesh Verma,2541.6,10,Suresh Iyer
+ORD1410,9/1/2024,West,Clothing,Sneha Jain,1617.05,4,Arjun Kapoor
+ORD1411,12/1/2024,North,Furniture,Ravi Mehra,2947.38,2,Vikram Rao
+ORD1412,1/15/2024,Central,Furniture,Neha Singh,4274.94,3,Meena Joshi
+ORD1413,7/12/2024,Central,Furniture,Neha Singh,2368.64,8,Nisha Das
+ORD1414,2/26/2024,Central,Furniture,Rajesh Verma,150.79,9,Nisha Das
+ORD1415,5/31/2024,South,Electronics,Anil Kumar,4147.87,10,Meena Joshi
+ORD1416,8/13/2024,East,Electronics,Neha Singh,2660.09,6,Nisha Das
+ORD1417,3/26/2024,East,Electronics,Rajesh Verma,2800.78,1,Suresh Iyer
+ORD1418,4/12/2024,South,Furniture,Ravi Mehra,4592.8,10,Aman Khan
+ORD1419,12/11/2024,North,Electronics,Neha Singh,3962.44,4,Meena Joshi
+ORD1420,2/6/2024,Central,Office Supplies,Pooja Reddy,383.41,6,Suresh Iyer
+ORD1421,5/1/2024,Central,Furniture,Ravi Mehra,585.71,8,Nisha Das
+ORD1422,3/10/2024,North,Electronics,Neha Singh,3572.18,2,Vikram Rao
+ORD1423,2/16/2024,Central,Office Supplies,Aarti Sharma,2158.21,4,Aman Khan
+ORD1424,7/9/2024,Central,Electronics,Pooja Reddy,3136.74,7,Suresh Iyer
+ORD1425,12/1/2024,Central,Furniture,Rajesh Verma,2146.23,4,Suresh Iyer
+ORD1426,1/28/2024,Central,Electronics,Neha Singh,2472.66,3,Suresh Iyer
+ORD1427,1/13/2024,West,Electronics,Sneha Jain,169.77,10,Suresh Iyer
+ORD1428,3/10/2024,North,Furniture,Anil Kumar,308.51,4,Arjun Kapoor
+ORD1429,7/26/2024,South,Electronics,Aarti Sharma,530.81,10,Arjun Kapoor
+ORD1430,12/18/2024,North,Office Supplies,Ravi Mehra,4552.05,10,Meena Joshi
+ORD1431,8/9/2024,North,Clothing,Neha Singh,3441.82,10,Nisha Das
+ORD1432,4/8/2024,West,Furniture,Neha Singh,3290.91,7,Nisha Das
+ORD1433,7/12/2024,South,Clothing,Anil Kumar,1081.8,5,Arjun Kapoor
+ORD1434,1/28/2024,West,Electronics,Sneha Jain,3120.21,2,Preeti Nair
+ORD1435,10/16/2024,Central,Office Supplies,Neha Singh,3510.3,2,Aman Khan
+ORD1436,11/17/2024,North,Electronics,Pooja Reddy,2029.52,2,Meena Joshi
+ORD1437,11/28/2024,West,Office Supplies,Sneha Jain,4543.88,2,Preeti Nair
+ORD1438,6/2/2024,South,Office Supplies,Sneha Jain,1258.77,7,Preeti Nair
+ORD1439,1/18/2024,South,Clothing,Pooja Reddy,2518.03,2,Arjun Kapoor
+ORD1440,12/26/2024,East,Electronics,Anil Kumar,2426.36,5,Vikram Rao
+ORD1441,9/2/2024,East,Electronics,Neha Singh,114.45,1,Arjun Kapoor
+ORD1442,7/3/2024,East,Furniture,Ravi Mehra,2024.18,5,Arjun Kapoor
+ORD1443,12/7/2024,West,Clothing,Pooja Reddy,4023.38,6,Vikram Rao
+ORD1444,9/4/2024,Central,Electronics,Pooja Reddy,4478.28,7,Meena Joshi
+ORD1445,12/21/2024,North,Electronics,Aarti Sharma,1204.73,7,Preeti Nair
+ORD1446,6/1/2024,South,Electronics,Sneha Jain,2607.03,1,Aman Khan
+ORD1447,11/25/2024,North,Furniture,Rajesh Verma,2082.84,10,Nisha Das
+ORD1448,2/20/2024,Central,Electronics,Ravi Mehra,4901.37,2,Suresh Iyer
+ORD1449,4/21/2024,East,Clothing,Neha Singh,4392.73,10,Preeti Nair
+ORD1450,1/3/2024,North,Furniture,Anil Kumar,4331.71,10,Preeti Nair
+ORD1451,10/30/2024,Central,Office Supplies,Sneha Jain,4457.14,8,Arjun Kapoor
+ORD1452,8/15/2024,North,Clothing,Ravi Mehra,484.86,3,Vikram Rao
+ORD1453,1/31/2024,East,Electronics,Sneha Jain,3842.13,10,Meena Joshi
+ORD1454,11/11/2024,West,Furniture,Neha Singh,1058.61,8,Suresh Iyer
+ORD1455,8/3/2024,West,Office Supplies,Anil Kumar,822.88,7,Aman Khan
+ORD1456,12/18/2024,South,Clothing,Neha Singh,2658.23,5,Aman Khan
+ORD1457,9/11/2024,West,Office Supplies,Pooja Reddy,3920.1,2,Vikram Rao
+ORD1458,3/25/2024,East,Clothing,Ravi Mehra,4385.97,7,Suresh Iyer
+ORD1459,5/14/2024,East,Office Supplies,Neha Singh,3046.19,10,Meena Joshi
+ORD1460,11/28/2024,East,Office Supplies,Pooja Reddy,1869.53,1,Arjun Kapoor
+ORD1461,2/12/2024,North,Electronics,Anil Kumar,2790.75,2,Aman Khan
+ORD1462,8/30/2024,East,Clothing,Neha Singh,3863.83,9,Vikram Rao
+ORD1463,10/24/2024,West,Clothing,Anil Kumar,4067.59,9,Nisha Das
+ORD1464,7/4/2024,East,Furniture,Neha Singh,657.09,8,Nisha Das
+ORD1465,4/30/2024,South,Clothing,Sneha Jain,3734.48,2,Vikram Rao
+ORD1466,6/14/2024,North,Clothing,Neha Singh,2001.99,10,Preeti Nair
+ORD1467,2/5/2024,East,Office Supplies,Ravi Mehra,2721.14,6,Nisha Das
+ORD1468,6/8/2024,South,Clothing,Anil Kumar,4547.78,6,Suresh Iyer
+ORD1469,7/15/2024,West,Clothing,Rajesh Verma,1067.63,4,Arjun Kapoor
+ORD1470,6/20/2024,Central,Office Supplies,Ravi Mehra,4379.16,7,Meena Joshi
+ORD1471,11/4/2024,North,Office Supplies,Anil Kumar,417.33,5,Arjun Kapoor
+ORD1472,2/17/2024,North,Office Supplies,Aarti Sharma,4413.34,8,Meena Joshi
+ORD1473,2/26/2024,West,Office Supplies,Sneha Jain,1184.95,1,Suresh Iyer
+ORD1474,3/12/2024,North,Electronics,Rajesh Verma,1832.16,7,Vikram Rao
+ORD1475,5/30/2024,East,Office Supplies,Sneha Jain,834.58,7,Suresh Iyer
+ORD1476,3/18/2024,East,Clothing,Neha Singh,2956.77,7,Nisha Das
+ORD1477,10/22/2024,East,Clothing,Aarti Sharma,4004.15,4,Meena Joshi
+ORD1478,10/1/2024,East,Furniture,Anil Kumar,2852.3,2,Arjun Kapoor
+ORD1479,9/19/2024,West,Electronics,Pooja Reddy,626.97,8,Nisha Das
+ORD1480,2/27/2024,East,Furniture,Aarti Sharma,2018.48,10,Suresh Iyer
+ORD1481,6/2/2024,Central,Clothing,Pooja Reddy,1875.03,3,Vikram Rao
+ORD1482,11/1/2024,South,Electronics,Pooja Reddy,1734.22,8,Nisha Das
+ORD1483,5/8/2024,North,Clothing,Rajesh Verma,1780.93,9,Aman Khan
+ORD1484,7/2/2024,North,Furniture,Sneha Jain,1532.19,4,Aman Khan
+ORD1485,6/16/2024,South,Furniture,Sneha Jain,1599.21,5,Arjun Kapoor
+ORD1486,8/28/2024,North,Furniture,Anil Kumar,172.09,5,Nisha Das
+ORD1487,11/21/2024,East,Office Supplies,Sneha Jain,2821,7,Preeti Nair
+ORD1488,4/28/2024,East,Electronics,Rajesh Verma,2700.3,3,Vikram Rao
+ORD1489,2/1/2024,East,Clothing,Neha Singh,104.86,1,Suresh Iyer
+ORD1490,11/25/2024,East,Furniture,Pooja Reddy,4703.28,8,Aman Khan
+ORD1491,5/28/2024,South,Office Supplies,Pooja Reddy,3369.51,2,Vikram Rao
+ORD1492,1/15/2024,South,Furniture,Anil Kumar,2540.7,9,Nisha Das
+ORD1493,6/21/2024,East,Electronics,Neha Singh,3483.69,5,Vikram Rao
+ORD1494,6/19/2024,West,Furniture,Neha Singh,1875.45,7,Preeti Nair
+ORD1495,2/9/2024,North,Furniture,Sneha Jain,434.33,8,Preeti Nair
+ORD1496,6/3/2024,North,Office Supplies,Sneha Jain,2736.99,10,Aman Khan
+ORD1497,12/20/2024,East,Electronics,Anil Kumar,4654.97,3,Meena Joshi
+ORD1498,8/30/2024,North,Electronics,Neha Singh,1139.58,9,Nisha Das
+ORD1499,6/21/2024,West,Furniture,Rajesh Verma,2696.36,6,Meena Joshi
+ORD1500,12/14/2024,South,Furniture,Anil Kumar,2586.89,10,Arjun Kapoor
+ORD1501,10/31/2024,East,Electronics,Sneha Jain,3687.2,4,Arjun Kapoor
+ORD1502,12/22/2024,Central,Furniture,Aarti Sharma,3897.81,3,Suresh Iyer
+ORD1503,9/1/2024,West,Furniture,Rajesh Verma,328.79,6,Suresh Iyer
+ORD1504,11/29/2024,South,Office Supplies,Pooja Reddy,516.67,9,Arjun Kapoor
+ORD1505,10/21/2024,South,Clothing,Neha Singh,2993.12,10,Preeti Nair
+ORD1506,5/18/2024,East,Electronics,Sneha Jain,2700.67,9,Meena Joshi
+ORD1507,4/14/2024,East,Office Supplies,Sneha Jain,3790.44,9,Aman Khan
+ORD1508,7/3/2024,South,Office Supplies,Ravi Mehra,1845.92,6,Nisha Das
+ORD1509,7/18/2024,Central,Furniture,Ravi Mehra,272.93,3,Meena Joshi
+ORD1510,12/12/2024,West,Office Supplies,Ravi Mehra,4813.34,7,Preeti Nair
+ORD1511,8/31/2024,East,Clothing,Aarti Sharma,2785.19,3,Suresh Iyer
+ORD1512,8/15/2024,Central,Office Supplies,Pooja Reddy,3396.06,3,Meena Joshi
+ORD1513,6/25/2024,Central,Clothing,Rajesh Verma,1124.84,6,Aman Khan
+ORD1514,2/1/2024,West,Furniture,Neha Singh,1588.75,2,Vikram Rao
+ORD1515,10/27/2024,West,Clothing,Anil Kumar,2511.96,1,Meena Joshi
+ORD1516,6/20/2024,West,Clothing,Pooja Reddy,2165.51,9,Suresh Iyer
+ORD1517,3/31/2024,Central,Furniture,Anil Kumar,157.79,4,Meena Joshi
+ORD1518,7/24/2024,West,Electronics,Aarti Sharma,2844.21,5,Aman Khan
+ORD1519,10/28/2024,South,Furniture,Aarti Sharma,2558.97,8,Nisha Das
+ORD1520,5/19/2024,East,Furniture,Rajesh Verma,1738.51,4,Meena Joshi
+ORD1521,4/14/2024,Central,Electronics,Sneha Jain,1482.94,3,Suresh Iyer
+ORD1522,1/26/2024,West,Electronics,Pooja Reddy,3840.94,1,Nisha Das
+ORD1523,11/23/2024,East,Office Supplies,Anil Kumar,1857.56,3,Vikram Rao
+ORD1524,2/13/2024,West,Furniture,Neha Singh,4669.3,4,Meena Joshi
+ORD1525,2/27/2024,South,Electronics,Rajesh Verma,4826.1,10,Aman Khan
+ORD1526,7/14/2024,Central,Furniture,Aarti Sharma,2924.84,10,Suresh Iyer
+ORD1527,8/6/2024,East,Electronics,Aarti Sharma,112.02,10,Suresh Iyer
+ORD1528,9/19/2024,Central,Electronics,Aarti Sharma,217.17,1,Preeti Nair
+ORD1529,12/8/2024,East,Furniture,Anil Kumar,2870.58,6,Arjun Kapoor
+ORD1530,7/15/2024,North,Office Supplies,Rajesh Verma,3287.98,7,Aman Khan
+ORD1531,5/27/2024,West,Office Supplies,Aarti Sharma,2739.23,7,Arjun Kapoor
+ORD1532,2/10/2024,North,Office Supplies,Aarti Sharma,211.13,10,Aman Khan
+ORD1533,10/27/2024,North,Furniture,Ravi Mehra,3363.4,5,Aman Khan
+ORD1534,2/6/2024,East,Furniture,Aarti Sharma,467.18,6,Vikram Rao
+ORD1535,4/5/2024,West,Furniture,Neha Singh,2444.47,9,Suresh Iyer
+ORD1536,7/19/2024,North,Office Supplies,Rajesh Verma,2228.14,2,Arjun Kapoor
+ORD1537,5/23/2024,East,Office Supplies,Pooja Reddy,3701.21,10,Suresh Iyer
+ORD1538,6/10/2024,West,Furniture,Pooja Reddy,1429.51,3,Nisha Das
+ORD1539,10/10/2024,Central,Furniture,Neha Singh,1329.71,6,Vikram Rao
+ORD1540,6/4/2024,South,Office Supplies,Pooja Reddy,2313.73,10,Aman Khan
+ORD1541,8/15/2024,South,Clothing,Sneha Jain,4485.95,9,Aman Khan
+ORD1542,11/15/2024,South,Office Supplies,Neha Singh,976.45,2,Meena Joshi
+ORD1543,6/25/2024,West,Furniture,Aarti Sharma,4451.48,7,Preeti Nair
+ORD1544,12/31/2024,South,Furniture,Pooja Reddy,781.3,1,Nisha Das
+ORD1545,4/19/2024,Central,Furniture,Ravi Mehra,1120.91,1,Aman Khan
+ORD1546,7/19/2024,North,Electronics,Pooja Reddy,2415.95,1,Meena Joshi
+ORD1547,7/30/2024,Central,Office Supplies,Neha Singh,193.96,5,Vikram Rao
+ORD1548,12/2/2024,East,Office Supplies,Aarti Sharma,2836.63,8,Meena Joshi
+ORD1549,7/16/2024,North,Furniture,Ravi Mehra,3033.22,2,Preeti Nair
+ORD1550,7/6/2024,North,Clothing,Neha Singh,880.03,5,Arjun Kapoor
+ORD1551,8/6/2024,North,Furniture,Ravi Mehra,3740.25,6,Meena Joshi
+ORD1552,1/7/2024,South,Furniture,Ravi Mehra,2476.45,7,Nisha Das
+ORD1553,5/11/2024,South,Electronics,Rajesh Verma,2209.44,4,Nisha Das
+ORD1554,6/8/2024,West,Office Supplies,Rajesh Verma,3843.21,1,Arjun Kapoor
+ORD1555,11/18/2024,North,Electronics,Anil Kumar,2959.71,10,Suresh Iyer
+ORD1556,7/19/2024,West,Clothing,Neha Singh,3751.09,8,Suresh Iyer
+ORD1557,11/28/2024,East,Furniture,Anil Kumar,654.34,2,Meena Joshi
+ORD1558,11/30/2024,Central,Clothing,Pooja Reddy,3634.48,8,Nisha Das
+ORD1559,3/5/2024,North,Electronics,Anil Kumar,2408.17,1,Meena Joshi
+ORD1560,7/24/2024,Central,Furniture,Anil Kumar,3272.87,4,Vikram Rao
+ORD1561,6/24/2024,West,Office Supplies,Aarti Sharma,4395.3,9,Suresh Iyer
+ORD1562,7/5/2024,North,Furniture,Sneha Jain,602.92,9,Suresh Iyer
+ORD1563,8/1/2024,Central,Office Supplies,Neha Singh,3007,10,Nisha Das
+ORD1564,6/17/2024,South,Office Supplies,Neha Singh,4881.43,8,Arjun Kapoor
+ORD1565,3/12/2024,South,Electronics,Neha Singh,3955.88,6,Vikram Rao
+ORD1566,8/20/2024,South,Furniture,Neha Singh,2794.63,9,Nisha Das
+ORD1567,5/24/2024,East,Furniture,Ravi Mehra,1785.38,7,Preeti Nair
+ORD1568,8/4/2024,East,Electronics,Sneha Jain,206.66,9,Arjun Kapoor
+ORD1569,1/22/2024,North,Electronics,Pooja Reddy,243.08,2,Meena Joshi
+ORD1570,9/30/2024,North,Furniture,Rajesh Verma,2917.52,8,Nisha Das
+ORD1571,3/5/2024,East,Furniture,Aarti Sharma,4049.06,1,Nisha Das
+ORD1572,3/29/2024,East,Furniture,Aarti Sharma,2654.98,9,Suresh Iyer
+ORD1573,9/27/2024,West,Electronics,Anil Kumar,4381.23,2,Arjun Kapoor
+ORD1574,8/5/2024,East,Clothing,Rajesh Verma,1280.65,9,Vikram Rao
+ORD1575,5/16/2024,East,Office Supplies,Aarti Sharma,2741.41,7,Vikram Rao
+ORD1576,9/24/2024,West,Office Supplies,Anil Kumar,4261.45,1,Vikram Rao
+ORD1577,11/9/2024,North,Furniture,Ravi Mehra,4437.76,3,Preeti Nair
+ORD1578,12/29/2024,South,Electronics,Neha Singh,4698.59,7,Preeti Nair
+ORD1579,11/22/2024,West,Furniture,Aarti Sharma,4234.54,8,Preeti Nair
+ORD1580,3/26/2024,West,Furniture,Rajesh Verma,4782.22,10,Arjun Kapoor
+ORD1581,7/11/2024,North,Clothing,Rajesh Verma,1306.68,9,Preeti Nair
+ORD1582,10/31/2024,West,Electronics,Anil Kumar,4799.62,6,Aman Khan
+ORD1583,6/20/2024,Central,Clothing,Anil Kumar,700.89,6,Arjun Kapoor
+ORD1584,11/2/2024,West,Electronics,Neha Singh,2852.15,10,Nisha Das
+ORD1585,10/16/2024,South,Furniture,Sneha Jain,658.75,1,Aman Khan
+ORD1586,4/7/2024,South,Furniture,Rajesh Verma,3120.59,3,Arjun Kapoor
+ORD1587,6/17/2024,South,Furniture,Rajesh Verma,2166.5,1,Meena Joshi
+ORD1588,10/4/2024,West,Clothing,Sneha Jain,1834.68,10,Arjun Kapoor
+ORD1589,4/4/2024,West,Electronics,Aarti Sharma,2280.69,4,Suresh Iyer
+ORD1590,5/25/2024,North,Office Supplies,Ravi Mehra,4465.79,3,Aman Khan
+ORD1591,1/6/2024,Central,Electronics,Rajesh Verma,3180.42,8,Vikram Rao
+ORD1592,11/30/2024,East,Electronics,Sneha Jain,2913.41,2,Arjun Kapoor
+ORD1593,11/17/2024,South,Office Supplies,Anil Kumar,4145.3,8,Nisha Das
+ORD1594,10/26/2024,South,Clothing,Aarti Sharma,4110.7,6,Aman Khan
+ORD1595,12/7/2024,West,Electronics,Neha Singh,3522.65,1,Suresh Iyer
+ORD1596,2/26/2024,South,Office Supplies,Neha Singh,4299.08,4,Nisha Das
+ORD1597,4/4/2024,West,Furniture,Aarti Sharma,1689.22,1,Meena Joshi
+ORD1598,1/4/2024,West,Office Supplies,Anil Kumar,4919.47,2,Suresh Iyer
+ORD1599,7/30/2024,Central,Clothing,Aarti Sharma,4085.73,8,Meena Joshi
+ORD1600,12/26/2024,Central,Electronics,Neha Singh,2332.57,10,Aman Khan
+ORD1601,6/10/2024,Central,Office Supplies,Rajesh Verma,2427.3,6,Preeti Nair
+ORD1602,1/20/2024,South,Furniture,Rajesh Verma,4216.04,3,Meena Joshi
+ORD1603,9/3/2024,Central,Electronics,Sneha Jain,1464.52,1,Meena Joshi
+ORD1604,11/15/2024,North,Furniture,Pooja Reddy,1083.92,6,Aman Khan
+ORD1605,6/7/2024,South,Clothing,Rajesh Verma,598.78,2,Nisha Das
+ORD1606,5/25/2024,West,Electronics,Ravi Mehra,2391.12,10,Nisha Das
+ORD1607,8/27/2024,South,Electronics,Neha Singh,1565.44,3,Nisha Das
+ORD1608,6/14/2024,West,Clothing,Sneha Jain,1221.3,6,Nisha Das
+ORD1609,8/19/2024,Central,Office Supplies,Ravi Mehra,3757.06,8,Aman Khan
+ORD1610,12/13/2024,West,Furniture,Pooja Reddy,3904.88,1,Preeti Nair
+ORD1611,8/22/2024,North,Electronics,Pooja Reddy,3906.98,1,Aman Khan
+ORD1612,6/4/2024,West,Furniture,Aarti Sharma,1369.3,8,Suresh Iyer
+ORD1613,6/1/2024,South,Office Supplies,Aarti Sharma,1770.79,10,Meena Joshi
+ORD1614,3/27/2024,Central,Office Supplies,Rajesh Verma,144.64,2,Arjun Kapoor
+ORD1615,8/28/2024,Central,Electronics,Ravi Mehra,3458.01,9,Suresh Iyer
+ORD1616,8/26/2024,South,Office Supplies,Aarti Sharma,3468.46,9,Meena Joshi
+ORD1617,7/9/2024,West,Furniture,Pooja Reddy,3836.13,6,Nisha Das
+ORD1618,12/14/2024,East,Office Supplies,Anil Kumar,1219.56,8,Vikram Rao
+ORD1619,9/4/2024,North,Electronics,Sneha Jain,2125.99,5,Suresh Iyer
+ORD1620,5/10/2024,South,Office Supplies,Aarti Sharma,4417.57,7,Vikram Rao
+ORD1621,3/16/2024,North,Office Supplies,Ravi Mehra,2113.04,4,Preeti Nair
+ORD1622,9/24/2024,East,Furniture,Sneha Jain,422.33,3,Suresh Iyer
+ORD1623,11/23/2024,North,Office Supplies,Ravi Mehra,2553.09,5,Meena Joshi
+ORD1624,6/5/2024,East,Office Supplies,Rajesh Verma,4320.36,10,Arjun Kapoor
+ORD1625,5/24/2024,West,Clothing,Sneha Jain,985.85,10,Nisha Das
+ORD1626,11/22/2024,East,Office Supplies,Aarti Sharma,998.11,2,Aman Khan
+ORD1627,11/23/2024,West,Clothing,Ravi Mehra,3102.25,10,Preeti Nair
+ORD1628,9/2/2024,West,Electronics,Sneha Jain,1553.38,4,Preeti Nair
+ORD1629,10/12/2024,West,Furniture,Pooja Reddy,2299.5,8,Suresh Iyer
+ORD1630,2/13/2024,East,Electronics,Ravi Mehra,1600.58,3,Vikram Rao
+ORD1631,12/12/2024,East,Office Supplies,Pooja Reddy,4164.04,9,Aman Khan
+ORD1632,7/11/2024,West,Clothing,Neha Singh,4369.28,2,Arjun Kapoor
+ORD1633,12/2/2024,South,Clothing,Anil Kumar,1152.01,4,Preeti Nair
+ORD1634,4/3/2024,East,Furniture,Ravi Mehra,898.63,10,Meena Joshi
+ORD1635,6/20/2024,South,Furniture,Anil Kumar,4977.86,5,Vikram Rao
+ORD1636,12/21/2024,North,Office Supplies,Pooja Reddy,1219.84,4,Arjun Kapoor
+ORD1637,3/5/2024,South,Office Supplies,Ravi Mehra,4648.65,2,Vikram Rao
+ORD1638,11/10/2024,West,Electronics,Sneha Jain,1963.9,1,Meena Joshi
+ORD1639,9/26/2024,North,Office Supplies,Neha Singh,4844.44,10,Nisha Das
+ORD1640,12/29/2024,East,Clothing,Pooja Reddy,1904.59,2,Vikram Rao
+ORD1641,9/22/2024,West,Clothing,Anil Kumar,1353.85,5,Nisha Das
+ORD1642,11/20/2024,South,Furniture,Anil Kumar,4713.84,5,Preeti Nair
+ORD1643,1/20/2024,North,Electronics,Neha Singh,4150.81,4,Vikram Rao
+ORD1644,2/18/2024,West,Clothing,Sneha Jain,1506.74,10,Arjun Kapoor
+ORD1645,3/25/2024,Central,Furniture,Pooja Reddy,2885.82,7,Suresh Iyer
+ORD1646,11/4/2024,West,Office Supplies,Neha Singh,2244.25,1,Suresh Iyer
+ORD1647,6/24/2024,East,Furniture,Sneha Jain,3311.75,2,Nisha Das
+ORD1648,5/22/2024,South,Electronics,Ravi Mehra,4773.74,10,Nisha Das
+ORD1649,4/3/2024,Central,Furniture,Neha Singh,3817.69,5,Aman Khan
+ORD1650,11/4/2024,North,Electronics,Neha Singh,2876.68,3,Aman Khan
+ORD1651,6/11/2024,North,Office Supplies,Neha Singh,4892.4,4,Aman Khan
+ORD1652,1/12/2024,West,Office Supplies,Sneha Jain,4902.07,6,Suresh Iyer
+ORD1653,12/15/2024,West,Office Supplies,Neha Singh,1739.37,5,Preeti Nair
+ORD1654,11/12/2024,Central,Furniture,Neha Singh,1423.17,4,Meena Joshi
+ORD1655,12/30/2024,South,Office Supplies,Aarti Sharma,1535.56,6,Vikram Rao
+ORD1656,3/24/2024,South,Furniture,Rajesh Verma,3435.75,2,Aman Khan
+ORD1657,11/18/2024,Central,Office Supplies,Sneha Jain,862.53,4,Meena Joshi
+ORD1658,10/5/2024,Central,Electronics,Pooja Reddy,2133.56,10,Meena Joshi
+ORD1659,12/8/2024,North,Clothing,Pooja Reddy,1837,5,Nisha Das
+ORD1660,1/16/2024,Central,Office Supplies,Ravi Mehra,4258.03,4,Arjun Kapoor
+ORD1661,5/16/2024,East,Electronics,Ravi Mehra,489.31,2,Vikram Rao
+ORD1662,3/5/2024,Central,Electronics,Sneha Jain,4750.83,7,Arjun Kapoor
+ORD1663,8/4/2024,North,Clothing,Pooja Reddy,4247.15,4,Meena Joshi
+ORD1664,9/27/2024,Central,Clothing,Rajesh Verma,3359.28,3,Meena Joshi
+ORD1665,5/4/2024,East,Office Supplies,Anil Kumar,2944.08,1,Arjun Kapoor
+ORD1666,12/21/2024,South,Electronics,Anil Kumar,3768.84,3,Suresh Iyer
+ORD1667,8/4/2024,South,Office Supplies,Anil Kumar,3195.6,6,Arjun Kapoor
+ORD1668,5/25/2024,West,Clothing,Pooja Reddy,3196.25,6,Arjun Kapoor
+ORD1669,4/22/2024,North,Furniture,Aarti Sharma,430.79,4,Suresh Iyer
+ORD1670,2/14/2024,North,Furniture,Pooja Reddy,4147.99,9,Suresh Iyer
+ORD1671,2/28/2024,South,Furniture,Neha Singh,3130.54,9,Meena Joshi
+ORD1672,1/11/2024,South,Furniture,Pooja Reddy,4323.62,8,Aman Khan
+ORD1673,7/18/2024,East,Office Supplies,Anil Kumar,3381.3,1,Nisha Das
+ORD1674,11/13/2024,Central,Clothing,Sneha Jain,4430.83,10,Arjun Kapoor
+ORD1675,8/14/2024,Central,Office Supplies,Rajesh Verma,4233.64,1,Vikram Rao
+ORD1676,10/7/2024,West,Electronics,Sneha Jain,1399.84,9,Nisha Das
+ORD1677,1/11/2024,West,Furniture,Ravi Mehra,2373.57,5,Suresh Iyer
+ORD1678,10/7/2024,East,Office Supplies,Rajesh Verma,2683.62,3,Suresh Iyer
+ORD1679,11/17/2024,South,Electronics,Sneha Jain,4903.83,4,Aman Khan
+ORD1680,12/21/2024,East,Office Supplies,Pooja Reddy,3077.16,9,Aman Khan
+ORD1681,4/9/2024,East,Furniture,Pooja Reddy,2900.89,10,Arjun Kapoor
+ORD1682,10/16/2024,West,Electronics,Sneha Jain,3653.77,1,Vikram Rao
+ORD1683,2/17/2024,West,Furniture,Rajesh Verma,1440.33,9,Vikram Rao
+ORD1684,3/3/2024,South,Furniture,Sneha Jain,1735.45,9,Nisha Das
+ORD1685,10/11/2024,North,Electronics,Pooja Reddy,4756.26,8,Arjun Kapoor
+ORD1686,7/22/2024,Central,Electronics,Neha Singh,3815.16,9,Nisha Das
+ORD1687,11/13/2024,East,Electronics,Rajesh Verma,3683.59,9,Meena Joshi
+ORD1688,11/25/2024,North,Office Supplies,Aarti Sharma,2906.18,8,Vikram Rao
+ORD1689,5/7/2024,East,Clothing,Anil Kumar,2980.34,7,Vikram Rao
+ORD1690,8/29/2024,East,Office Supplies,Rajesh Verma,3991.92,6,Suresh Iyer
+ORD1691,6/8/2024,East,Electronics,Pooja Reddy,2901.93,5,Arjun Kapoor
+ORD1692,1/20/2024,East,Electronics,Aarti Sharma,4361.82,1,Arjun Kapoor
+ORD1693,2/2/2024,North,Electronics,Neha Singh,4883.62,1,Meena Joshi
+ORD1694,4/7/2024,South,Furniture,Pooja Reddy,3641.84,1,Aman Khan
+ORD1695,2/21/2024,Central,Clothing,Anil Kumar,4301.16,9,Vikram Rao
+ORD1696,5/3/2024,West,Clothing,Neha Singh,4535.2,7,Meena Joshi
+ORD1697,1/6/2024,North,Office Supplies,Neha Singh,3932.1,7,Preeti Nair
+ORD1698,12/11/2024,West,Clothing,Rajesh Verma,3125.35,6,Meena Joshi
+ORD1699,3/29/2024,East,Office Supplies,Ravi Mehra,2658.88,9,Preeti Nair
+ORD1700,11/22/2024,North,Office Supplies,Sneha Jain,4034.06,9,Suresh Iyer
+ORD1701,10/16/2024,East,Furniture,Ravi Mehra,880.76,9,Suresh Iyer
+ORD1702,3/9/2024,East,Clothing,Aarti Sharma,1013.29,9,Vikram Rao
+ORD1703,4/18/2024,Central,Clothing,Pooja Reddy,2429.82,10,Vikram Rao
+ORD1704,3/24/2024,Central,Electronics,Aarti Sharma,2261.46,9,Aman Khan
+ORD1705,10/24/2024,North,Electronics,Rajesh Verma,3363.33,5,Vikram Rao
+ORD1706,12/27/2024,North,Furniture,Sneha Jain,1588.69,5,Arjun Kapoor
+ORD1707,7/4/2024,East,Office Supplies,Ravi Mehra,1281.19,4,Vikram Rao
+ORD1708,10/14/2024,Central,Office Supplies,Neha Singh,1429.16,3,Preeti Nair
+ORD1709,10/18/2024,Central,Electronics,Neha Singh,2668.65,8,Meena Joshi
+ORD1710,7/9/2024,West,Furniture,Rajesh Verma,1976.8,2,Meena Joshi
+ORD1711,1/2/2024,West,Clothing,Rajesh Verma,3624.92,3,Preeti Nair
+ORD1712,10/7/2024,Central,Clothing,Pooja Reddy,356.3,7,Arjun Kapoor
+ORD1713,1/31/2024,West,Electronics,Pooja Reddy,2517.85,7,Vikram Rao
+ORD1714,8/5/2024,East,Office Supplies,Rajesh Verma,255.13,5,Nisha Das
+ORD1715,4/9/2024,West,Clothing,Pooja Reddy,985.05,7,Suresh Iyer
+ORD1716,9/10/2024,South,Clothing,Sneha Jain,658.14,10,Meena Joshi
+ORD1717,12/3/2024,South,Office Supplies,Neha Singh,2437.22,8,Aman Khan
+ORD1718,11/26/2024,Central,Electronics,Sneha Jain,2517.85,9,Aman Khan
+ORD1719,10/4/2024,West,Clothing,Rajesh Verma,3293.43,2,Suresh Iyer
+ORD1720,5/10/2024,North,Electronics,Ravi Mehra,4520.05,2,Suresh Iyer
+ORD1721,3/27/2024,South,Office Supplies,Aarti Sharma,1520.53,1,Vikram Rao
+ORD1722,5/21/2024,Central,Furniture,Aarti Sharma,113.72,5,Suresh Iyer
+ORD1723,9/21/2024,South,Clothing,Anil Kumar,4012.97,2,Nisha Das
+ORD1724,6/13/2024,West,Furniture,Sneha Jain,298.29,9,Vikram Rao
+ORD1725,6/18/2024,West,Electronics,Neha Singh,4581.04,4,Nisha Das
+ORD1726,2/18/2024,South,Furniture,Neha Singh,900.05,9,Aman Khan
+ORD1727,10/9/2024,North,Office Supplies,Neha Singh,3139.88,1,Meena Joshi
+ORD1728,10/10/2024,West,Furniture,Rajesh Verma,1766.25,7,Arjun Kapoor
+ORD1729,8/19/2024,East,Electronics,Neha Singh,1670.37,1,Vikram Rao
+ORD1730,4/14/2024,South,Furniture,Pooja Reddy,3769.06,6,Suresh Iyer
+ORD1731,8/8/2024,West,Furniture,Sneha Jain,3402.5,10,Aman Khan
+ORD1732,10/6/2024,South,Clothing,Neha Singh,3639.2,6,Preeti Nair
+ORD1733,1/10/2024,West,Electronics,Ravi Mehra,193.01,2,Vikram Rao
+ORD1734,10/14/2024,South,Office Supplies,Sneha Jain,474.15,4,Meena Joshi
+ORD1735,1/15/2024,East,Clothing,Rajesh Verma,3483.63,4,Vikram Rao
+ORD1736,8/2/2024,Central,Office Supplies,Aarti Sharma,4998.33,5,Arjun Kapoor
+ORD1737,8/22/2024,Central,Electronics,Anil Kumar,2923.5,8,Arjun Kapoor
+ORD1738,6/24/2024,Central,Electronics,Neha Singh,3772.41,1,Vikram Rao
+ORD1739,1/1/2024,North,Clothing,Neha Singh,515.2,5,Arjun Kapoor
+ORD1740,6/13/2024,Central,Clothing,Aarti Sharma,4638.37,7,Nisha Das
+ORD1741,1/17/2024,Central,Clothing,Anil Kumar,1257.38,9,Arjun Kapoor
+ORD1742,10/18/2024,North,Electronics,Neha Singh,1802.98,1,Vikram Rao
+ORD1743,8/14/2024,South,Furniture,Pooja Reddy,814.66,3,Meena Joshi
+ORD1744,9/21/2024,North,Furniture,Ravi Mehra,4075.8,8,Nisha Das
+ORD1745,5/14/2024,North,Office Supplies,Rajesh Verma,220.67,9,Vikram Rao
+ORD1746,8/15/2024,East,Furniture,Ravi Mehra,3791.02,8,Meena Joshi
+ORD1747,8/28/2024,South,Electronics,Ravi Mehra,1456.06,3,Suresh Iyer
+ORD1748,4/30/2024,Central,Office Supplies,Rajesh Verma,1439.66,6,Meena Joshi
+ORD1749,12/20/2024,East,Furniture,Neha Singh,2277.73,2,Arjun Kapoor
+ORD1750,6/10/2024,Central,Furniture,Neha Singh,2464.44,2,Suresh Iyer
+ORD1751,5/13/2024,West,Electronics,Ravi Mehra,406.07,5,Suresh Iyer
+ORD1752,9/7/2024,East,Electronics,Anil Kumar,3865.46,10,Preeti Nair
+ORD1753,1/13/2024,South,Electronics,Aarti Sharma,2059.73,1,Preeti Nair
+ORD1754,8/22/2024,North,Electronics,Aarti Sharma,4325.43,2,Vikram Rao
+ORD1755,4/15/2024,West,Furniture,Rajesh Verma,3584.41,2,Arjun Kapoor
+ORD1756,1/8/2024,West,Office Supplies,Rajesh Verma,3886.01,9,Nisha Das
+ORD1757,4/28/2024,East,Clothing,Pooja Reddy,3558.51,9,Vikram Rao
+ORD1758,3/15/2024,East,Electronics,Pooja Reddy,205.06,9,Preeti Nair
+ORD1759,5/6/2024,East,Office Supplies,Neha Singh,1309.39,9,Meena Joshi
+ORD1760,12/24/2024,North,Furniture,Rajesh Verma,3137.49,4,Nisha Das
+ORD1761,7/5/2024,East,Clothing,Anil Kumar,536.64,9,Nisha Das
+ORD1762,2/22/2024,South,Furniture,Anil Kumar,4955.69,5,Aman Khan
+ORD1763,12/19/2024,East,Office Supplies,Neha Singh,702.79,10,Preeti Nair
+ORD1764,11/20/2024,Central,Clothing,Pooja Reddy,2369.43,3,Aman Khan
+ORD1765,7/13/2024,West,Office Supplies,Pooja Reddy,818.01,9,Arjun Kapoor
+ORD1766,3/8/2024,West,Clothing,Neha Singh,1688.4,7,Nisha Das
+ORD1767,12/15/2024,East,Electronics,Aarti Sharma,2280.78,1,Meena Joshi
+ORD1768,9/12/2024,North,Furniture,Sneha Jain,145.74,10,Aman Khan
+ORD1769,11/25/2024,West,Furniture,Neha Singh,3078.17,9,Arjun Kapoor
+ORD1770,7/6/2024,Central,Furniture,Rajesh Verma,707.27,10,Meena Joshi
+ORD1771,4/15/2024,North,Furniture,Pooja Reddy,4947.71,10,Meena Joshi
+ORD1772,12/2/2024,East,Furniture,Sneha Jain,4152.18,9,Aman Khan
+ORD1773,7/16/2024,East,Clothing,Neha Singh,859.82,9,Aman Khan
+ORD1774,12/13/2024,East,Clothing,Anil Kumar,505.6,10,Meena Joshi
+ORD1775,7/2/2024,Central,Office Supplies,Rajesh Verma,3905.53,4,Arjun Kapoor
+ORD1776,2/26/2024,West,Clothing,Aarti Sharma,682.19,3,Vikram Rao
+ORD1777,7/29/2024,South,Clothing,Sneha Jain,856.11,7,Nisha Das
+ORD1778,1/25/2024,North,Clothing,Rajesh Verma,696.53,5,Vikram Rao
+ORD1779,2/5/2024,West,Electronics,Pooja Reddy,4300.11,5,Suresh Iyer
+ORD1780,8/2/2024,North,Office Supplies,Ravi Mehra,2932.25,4,Aman Khan
+ORD1781,3/6/2024,South,Electronics,Rajesh Verma,4959.94,8,Vikram Rao
+ORD1782,11/8/2024,East,Clothing,Ravi Mehra,4449.51,9,Meena Joshi
+ORD1783,3/31/2024,West,Clothing,Pooja Reddy,2264.83,7,Arjun Kapoor
+ORD1784,12/12/2024,East,Furniture,Anil Kumar,1328.53,7,Vikram Rao
+ORD1785,5/29/2024,West,Furniture,Anil Kumar,4948.47,6,Aman Khan
+ORD1786,10/2/2024,East,Electronics,Pooja Reddy,1220.9,9,Meena Joshi
+ORD1787,6/4/2024,South,Clothing,Aarti Sharma,4504.31,9,Suresh Iyer
+ORD1788,2/5/2024,South,Office Supplies,Pooja Reddy,2243.7,10,Aman Khan
+ORD1789,11/20/2024,North,Office Supplies,Rajesh Verma,1049.52,2,Aman Khan
+ORD1790,10/8/2024,South,Electronics,Pooja Reddy,4011.52,3,Arjun Kapoor
+ORD1791,8/6/2024,West,Furniture,Anil Kumar,242.16,6,Preeti Nair
+ORD1792,10/21/2024,South,Office Supplies,Ravi Mehra,4985.76,10,Preeti Nair
+ORD1793,7/25/2024,Central,Clothing,Neha Singh,4082.52,3,Preeti Nair
+ORD1794,2/5/2024,North,Furniture,Aarti Sharma,1830.98,6,Meena Joshi
+ORD1795,12/29/2024,North,Furniture,Rajesh Verma,1939.92,8,Arjun Kapoor
+ORD1796,3/24/2024,East,Electronics,Rajesh Verma,471.01,10,Aman Khan
+ORD1797,5/29/2024,Central,Furniture,Rajesh Verma,3223.59,3,Nisha Das
+ORD1798,5/16/2024,North,Office Supplies,Pooja Reddy,3864.09,4,Aman Khan
+ORD1799,2/21/2024,Central,Electronics,Anil Kumar,2765.75,6,Suresh Iyer
+ORD1800,4/21/2024,East,Office Supplies,Rajesh Verma,410.31,10,Vikram Rao
+ORD1801,3/22/2024,West,Clothing,Sneha Jain,3381.7,3,Nisha Das
+ORD1802,1/3/2024,Central,Electronics,Anil Kumar,827.68,9,Arjun Kapoor
+ORD1803,12/5/2024,South,Office Supplies,Neha Singh,1611.4,9,Vikram Rao
+ORD1804,7/11/2024,Central,Electronics,Anil Kumar,1189.45,6,Preeti Nair
+ORD1805,12/24/2024,East,Office Supplies,Sneha Jain,655.62,9,Aman Khan
+ORD1806,7/28/2024,North,Electronics,Sneha Jain,1479.39,5,Suresh Iyer
+ORD1807,2/19/2024,North,Office Supplies,Pooja Reddy,1459.67,3,Suresh Iyer
+ORD1808,11/18/2024,East,Clothing,Rajesh Verma,1542.93,10,Vikram Rao
+ORD1809,7/31/2024,Central,Office Supplies,Sneha Jain,4185.08,5,Meena Joshi
+ORD1810,1/7/2024,South,Electronics,Pooja Reddy,2706.49,8,Arjun Kapoor
+ORD1811,5/12/2024,North,Clothing,Aarti Sharma,1612.33,8,Preeti Nair
+ORD1812,5/7/2024,East,Office Supplies,Aarti Sharma,2216.77,3,Aman Khan
+ORD1813,9/11/2024,Central,Office Supplies,Aarti Sharma,692.54,8,Nisha Das
+ORD1814,2/22/2024,North,Furniture,Sneha Jain,3939.07,7,Suresh Iyer
+ORD1815,1/25/2024,Central,Electronics,Rajesh Verma,4628.43,3,Meena Joshi
+ORD1816,2/19/2024,East,Office Supplies,Ravi Mehra,2320.04,4,Nisha Das
+ORD1817,2/2/2024,East,Office Supplies,Neha Singh,3346.26,2,Arjun Kapoor
+ORD1818,12/20/2024,East,Office Supplies,Neha Singh,3851.42,4,Preeti Nair
+ORD1819,11/11/2024,South,Electronics,Anil Kumar,3923,1,Arjun Kapoor
+ORD1820,1/12/2024,Central,Electronics,Anil Kumar,3939.94,4,Preeti Nair
+ORD1821,2/29/2024,South,Clothing,Aarti Sharma,1371.57,2,Preeti Nair
+ORD1822,1/3/2024,West,Furniture,Ravi Mehra,3262.6,10,Preeti Nair
+ORD1823,1/19/2024,Central,Furniture,Sneha Jain,963.68,1,Aman Khan
+ORD1824,1/5/2024,Central,Furniture,Pooja Reddy,2109.05,2,Aman Khan
+ORD1825,4/20/2024,West,Furniture,Pooja Reddy,477.88,4,Nisha Das
+ORD1826,12/26/2024,East,Clothing,Anil Kumar,2142.23,9,Meena Joshi
+ORD1827,8/27/2024,North,Electronics,Anil Kumar,2112.79,9,Suresh Iyer
+ORD1828,5/29/2024,East,Office Supplies,Pooja Reddy,2693.45,1,Arjun Kapoor
+ORD1829,11/9/2024,Central,Clothing,Aarti Sharma,1227.96,6,Nisha Das
+ORD1830,12/17/2024,Central,Furniture,Neha Singh,939.19,5,Vikram Rao
+ORD1831,10/17/2024,North,Clothing,Neha Singh,3624.29,8,Arjun Kapoor
+ORD1832,1/8/2024,West,Furniture,Pooja Reddy,1383.83,2,Suresh Iyer
+ORD1833,8/29/2024,East,Electronics,Rajesh Verma,3368.38,1,Vikram Rao
+ORD1834,12/17/2024,West,Electronics,Ravi Mehra,1709.68,2,Arjun Kapoor
+ORD1835,6/24/2024,Central,Furniture,Anil Kumar,1150.88,5,Aman Khan
+ORD1836,3/25/2024,South,Electronics,Anil Kumar,4332.1,2,Vikram Rao
+ORD1837,9/25/2024,Central,Clothing,Ravi Mehra,2070.45,7,Preeti Nair
+ORD1838,10/29/2024,South,Office Supplies,Rajesh Verma,3480.74,7,Suresh Iyer
+ORD1839,2/15/2024,South,Office Supplies,Ravi Mehra,2657.92,2,Aman Khan
+ORD1840,4/30/2024,East,Furniture,Ravi Mehra,2800.8,10,Meena Joshi
+ORD1841,8/8/2024,Central,Clothing,Rajesh Verma,3140.01,7,Suresh Iyer
+ORD1842,9/15/2024,North,Office Supplies,Rajesh Verma,3340.26,7,Suresh Iyer
+ORD1843,5/16/2024,North,Electronics,Pooja Reddy,3808.7,8,Preeti Nair
+ORD1844,2/7/2024,West,Electronics,Pooja Reddy,1801.26,7,Preeti Nair
+ORD1845,2/8/2024,East,Clothing,Anil Kumar,1261.09,1,Nisha Das
+ORD1846,5/19/2024,Central,Office Supplies,Pooja Reddy,4601.79,3,Nisha Das
+ORD1847,2/28/2024,West,Clothing,Anil Kumar,3819.83,10,Nisha Das
+ORD1848,2/20/2024,South,Furniture,Neha Singh,1384.3,2,Nisha Das
+ORD1849,12/10/2024,East,Office Supplies,Rajesh Verma,376.78,3,Suresh Iyer
+ORD1850,9/29/2024,North,Electronics,Neha Singh,4319.21,3,Aman Khan
+ORD1851,2/11/2024,South,Furniture,Anil Kumar,2484.75,8,Arjun Kapoor
+ORD1852,4/17/2024,South,Electronics,Anil Kumar,1209.46,6,Meena Joshi
+ORD1853,9/8/2024,North,Clothing,Rajesh Verma,956.69,8,Suresh Iyer
+ORD1854,9/17/2024,Central,Office Supplies,Aarti Sharma,4823.17,5,Vikram Rao
+ORD1855,7/9/2024,West,Electronics,Rajesh Verma,1845.54,4,Nisha Das
+ORD1856,4/10/2024,North,Furniture,Neha Singh,3132.01,5,Aman Khan
+ORD1857,7/4/2024,West,Clothing,Aarti Sharma,758.49,10,Suresh Iyer
+ORD1858,5/4/2024,East,Office Supplies,Sneha Jain,1549.1,1,Aman Khan
+ORD1859,4/8/2024,East,Furniture,Anil Kumar,3166.95,8,Vikram Rao
+ORD1860,4/25/2024,South,Electronics,Aarti Sharma,2174.25,10,Nisha Das
+ORD1861,6/19/2024,West,Electronics,Pooja Reddy,1135.32,3,Nisha Das
+ORD1862,6/22/2024,Central,Clothing,Rajesh Verma,2703.33,6,Arjun Kapoor
+ORD1863,11/16/2024,South,Clothing,Anil Kumar,3569.35,7,Arjun Kapoor
+ORD1864,3/25/2024,South,Furniture,Pooja Reddy,4112.98,10,Preeti Nair
+ORD1865,4/4/2024,West,Clothing,Neha Singh,4310.25,2,Meena Joshi
+ORD1866,1/24/2024,North,Clothing,Sneha Jain,1214.89,7,Meena Joshi
+ORD1867,3/7/2024,East,Furniture,Pooja Reddy,1561.53,8,Vikram Rao
+ORD1868,4/1/2024,West,Office Supplies,Sneha Jain,2389.56,3,Suresh Iyer
+ORD1869,11/7/2024,Central,Furniture,Anil Kumar,3576.29,7,Nisha Das
+ORD1870,8/1/2024,South,Office Supplies,Sneha Jain,1223.39,3,Arjun Kapoor
+ORD1871,10/10/2024,East,Clothing,Neha Singh,2703.18,4,Preeti Nair
+ORD1872,5/31/2024,Central,Furniture,Anil Kumar,3933.74,3,Arjun Kapoor
+ORD1873,8/19/2024,Central,Furniture,Rajesh Verma,136.07,3,Vikram Rao
+ORD1874,10/22/2024,North,Electronics,Pooja Reddy,3621.47,9,Arjun Kapoor
+ORD1875,5/5/2024,South,Office Supplies,Sneha Jain,4964.81,6,Arjun Kapoor
+ORD1876,4/3/2024,East,Electronics,Pooja Reddy,1149.84,4,Meena Joshi
+ORD1877,9/28/2024,North,Electronics,Aarti Sharma,1574.43,4,Meena Joshi
+ORD1878,5/19/2024,East,Furniture,Sneha Jain,2508.33,10,Nisha Das
+ORD1879,1/12/2024,West,Clothing,Rajesh Verma,532.51,5,Arjun Kapoor
+ORD1880,5/21/2024,Central,Office Supplies,Pooja Reddy,4789.17,8,Meena Joshi
+ORD1881,9/6/2024,West,Furniture,Pooja Reddy,3724.18,8,Meena Joshi
+ORD1882,3/3/2024,East,Office Supplies,Sneha Jain,790.43,6,Preeti Nair
+ORD1883,3/20/2024,North,Clothing,Pooja Reddy,574.01,9,Nisha Das
+ORD1884,8/22/2024,East,Clothing,Sneha Jain,4294.62,3,Suresh Iyer
+ORD1885,7/7/2024,East,Electronics,Ravi Mehra,4662.65,2,Preeti Nair
+ORD1886,4/27/2024,East,Furniture,Sneha Jain,2801.18,1,Suresh Iyer
+ORD1887,1/1/2024,North,Office Supplies,Neha Singh,2334.35,8,Meena Joshi
+ORD1888,5/5/2024,East,Furniture,Ravi Mehra,1941.91,7,Suresh Iyer
+ORD1889,7/24/2024,North,Clothing,Anil Kumar,1433.02,3,Meena Joshi
+ORD1890,2/12/2024,West,Furniture,Anil Kumar,197.99,1,Nisha Das
+ORD1891,12/29/2024,South,Furniture,Neha Singh,392.63,9,Nisha Das
+ORD1892,11/28/2024,North,Furniture,Anil Kumar,3266.17,9,Vikram Rao
+ORD1893,12/4/2024,East,Clothing,Ravi Mehra,2396.55,10,Suresh Iyer
+ORD1894,6/14/2024,South,Office Supplies,Anil Kumar,381.77,5,Meena Joshi
+ORD1895,11/20/2024,Central,Furniture,Neha Singh,3853.51,6,Meena Joshi
+ORD1896,11/24/2024,North,Furniture,Pooja Reddy,4929.73,10,Arjun Kapoor
+ORD1897,3/10/2024,East,Clothing,Pooja Reddy,2143.57,7,Preeti Nair
+ORD1898,7/27/2024,Central,Furniture,Ravi Mehra,1768.29,2,Vikram Rao
+ORD1899,4/9/2024,East,Clothing,Ravi Mehra,2481.36,10,Vikram Rao
+ORD1900,12/6/2024,East,Clothing,Rajesh Verma,4697.11,4,Suresh Iyer
+ORD1901,10/27/2024,East,Clothing,Aarti Sharma,977.44,5,Preeti Nair
+ORD1902,6/8/2024,East,Clothing,Pooja Reddy,4335,8,Preeti Nair
+ORD1903,8/13/2024,West,Office Supplies,Rajesh Verma,360.35,8,Preeti Nair
+ORD1904,9/20/2024,East,Clothing,Anil Kumar,554.87,1,Preeti Nair
+ORD1905,6/22/2024,West,Clothing,Rajesh Verma,559.08,1,Suresh Iyer
+ORD1906,4/13/2024,East,Clothing,Rajesh Verma,2124.97,5,Suresh Iyer
+ORD1907,3/17/2024,West,Clothing,Neha Singh,2681.46,5,Nisha Das
+ORD1908,7/3/2024,East,Clothing,Sneha Jain,2208.72,5,Aman Khan
+ORD1909,6/1/2024,South,Office Supplies,Neha Singh,4878.28,3,Arjun Kapoor
+ORD1910,11/17/2024,Central,Clothing,Sneha Jain,129.56,6,Arjun Kapoor
+ORD1911,5/8/2024,South,Furniture,Neha Singh,1369.26,6,Vikram Rao
+ORD1912,5/29/2024,South,Office Supplies,Aarti Sharma,3163.04,5,Vikram Rao
+ORD1913,3/16/2024,South,Office Supplies,Neha Singh,2462.93,10,Preeti Nair
+ORD1914,3/24/2024,North,Clothing,Neha Singh,2917.76,2,Suresh Iyer
+ORD1915,10/5/2024,East,Electronics,Rajesh Verma,4923.12,5,Nisha Das
+ORD1916,7/6/2024,East,Office Supplies,Sneha Jain,4163.35,9,Suresh Iyer
+ORD1917,8/22/2024,East,Clothing,Pooja Reddy,756.44,2,Arjun Kapoor
+ORD1918,6/17/2024,West,Clothing,Rajesh Verma,4859.33,4,Suresh Iyer
+ORD1919,3/6/2024,North,Office Supplies,Pooja Reddy,4062.46,2,Nisha Das
+ORD1920,8/10/2024,Central,Clothing,Rajesh Verma,3828.12,2,Nisha Das
+ORD1921,8/6/2024,South,Electronics,Aarti Sharma,1094.84,7,Arjun Kapoor
+ORD1922,9/1/2024,West,Electronics,Neha Singh,142.71,5,Vikram Rao
+ORD1923,6/16/2024,East,Electronics,Ravi Mehra,972.44,8,Vikram Rao
+ORD1924,3/9/2024,East,Office Supplies,Aarti Sharma,232.83,8,Preeti Nair
+ORD1925,4/16/2024,East,Clothing,Ravi Mehra,542.52,8,Meena Joshi
+ORD1926,4/20/2024,West,Office Supplies,Neha Singh,4610.57,6,Arjun Kapoor
+ORD1927,8/27/2024,North,Office Supplies,Sneha Jain,2521.87,7,Arjun Kapoor
+ORD1928,2/8/2024,North,Furniture,Pooja Reddy,274.08,9,Nisha Das
+ORD1929,8/5/2024,North,Clothing,Anil Kumar,3718.18,1,Arjun Kapoor
+ORD1930,9/3/2024,North,Clothing,Sneha Jain,724.95,7,Preeti Nair
+ORD1931,4/4/2024,West,Electronics,Ravi Mehra,4951.53,4,Arjun Kapoor
+ORD1932,6/12/2024,East,Office Supplies,Rajesh Verma,4295.85,1,Suresh Iyer
+ORD1933,3/23/2024,East,Clothing,Sneha Jain,2743.96,9,Arjun Kapoor
+ORD1934,1/3/2024,North,Electronics,Sneha Jain,1763.69,5,Aman Khan
+ORD1935,9/1/2024,Central,Clothing,Sneha Jain,148.62,10,Nisha Das
+ORD1936,4/8/2024,Central,Office Supplies,Rajesh Verma,4365.56,1,Preeti Nair
+ORD1937,10/10/2024,North,Clothing,Aarti Sharma,2405.21,4,Meena Joshi
+ORD1938,8/27/2024,Central,Office Supplies,Sneha Jain,3304.93,4,Preeti Nair
+ORD1939,5/10/2024,North,Electronics,Pooja Reddy,1099.71,9,Meena Joshi
+ORD1940,11/14/2024,Central,Clothing,Neha Singh,3148.02,10,Meena Joshi
+ORD1941,2/26/2024,East,Electronics,Aarti Sharma,4477.19,1,Nisha Das
+ORD1942,8/8/2024,South,Furniture,Rajesh Verma,3808.09,4,Arjun Kapoor
+ORD1943,11/30/2024,North,Office Supplies,Sneha Jain,1028.14,10,Meena Joshi
+ORD1944,1/24/2024,Central,Clothing,Anil Kumar,3870.92,5,Aman Khan
+ORD1945,3/14/2024,Central,Furniture,Rajesh Verma,3222.56,7,Suresh Iyer
+ORD1946,8/8/2024,West,Clothing,Neha Singh,3431.75,6,Arjun Kapoor
+ORD1947,2/16/2024,South,Office Supplies,Ravi Mehra,1315.25,2,Preeti Nair
+ORD1948,3/1/2024,West,Clothing,Rajesh Verma,1755.81,5,Arjun Kapoor
+ORD1949,7/25/2024,West,Office Supplies,Anil Kumar,790.6,8,Preeti Nair
+ORD1950,5/2/2024,South,Electronics,Pooja Reddy,4141.17,10,Aman Khan
+ORD1951,10/4/2024,West,Office Supplies,Aarti Sharma,437.21,8,Aman Khan
+ORD1952,1/3/2024,South,Electronics,Aarti Sharma,543.4,8,Preeti Nair
+ORD1953,5/12/2024,East,Furniture,Anil Kumar,3100.23,4,Aman Khan
+ORD1954,11/30/2024,East,Clothing,Rajesh Verma,3058.94,3,Aman Khan
+ORD1955,12/10/2024,West,Clothing,Aarti Sharma,1577.62,4,Aman Khan
+ORD1956,8/15/2024,South,Furniture,Rajesh Verma,1393.49,1,Nisha Das
+ORD1957,7/4/2024,North,Office Supplies,Anil Kumar,1544.12,8,Vikram Rao
+ORD1958,4/16/2024,South,Clothing,Sneha Jain,1609.31,9,Suresh Iyer
+ORD1959,4/14/2024,North,Office Supplies,Rajesh Verma,4553.9,1,Arjun Kapoor
+ORD1960,8/14/2024,Central,Clothing,Anil Kumar,3997.45,9,Vikram Rao
+ORD1961,6/18/2024,Central,Furniture,Anil Kumar,932,7,Preeti Nair
+ORD1962,5/18/2024,East,Office Supplies,Pooja Reddy,1834.09,3,Nisha Das
+ORD1963,10/18/2024,North,Office Supplies,Anil Kumar,3672.42,2,Arjun Kapoor
+ORD1964,10/6/2024,Central,Office Supplies,Sneha Jain,3751.22,7,Meena Joshi
+ORD1965,2/8/2024,West,Clothing,Anil Kumar,2419.5,5,Meena Joshi
+ORD1966,2/21/2024,East,Clothing,Neha Singh,741.68,4,Arjun Kapoor
+ORD1967,12/21/2024,Central,Electronics,Ravi Mehra,2682.41,3,Meena Joshi
+ORD1968,11/11/2024,Central,Electronics,Neha Singh,4842.17,2,Vikram Rao
+ORD1969,1/25/2024,West,Electronics,Neha Singh,2867.05,1,Vikram Rao
+ORD1970,9/27/2024,West,Furniture,Neha Singh,2229.04,6,Suresh Iyer
+ORD1971,3/4/2024,East,Clothing,Rajesh Verma,1654.31,10,Arjun Kapoor
+ORD1972,11/28/2024,Central,Furniture,Neha Singh,953.82,7,Arjun Kapoor
+ORD1973,2/27/2024,West,Office Supplies,Ravi Mehra,3599.68,10,Meena Joshi
+ORD1974,6/4/2024,Central,Clothing,Anil Kumar,3593.24,10,Suresh Iyer
+ORD1975,8/7/2024,South,Electronics,Sneha Jain,856.67,3,Meena Joshi
+ORD1976,8/7/2024,North,Electronics,Anil Kumar,2832.52,4,Vikram Rao
+ORD1977,1/18/2024,South,Furniture,Aarti Sharma,2397.67,1,Arjun Kapoor
+ORD1978,10/19/2024,Central,Office Supplies,Aarti Sharma,1857.18,9,Suresh Iyer
+ORD1979,11/12/2024,West,Clothing,Anil Kumar,1383.28,1,Vikram Rao
+ORD1980,12/21/2024,East,Furniture,Neha Singh,1241.59,10,Preeti Nair
+ORD1981,8/5/2024,North,Electronics,Anil Kumar,4221.22,6,Suresh Iyer
+ORD1982,11/17/2024,West,Furniture,Aarti Sharma,1518.07,4,Meena Joshi
+ORD1983,10/4/2024,West,Office Supplies,Sneha Jain,4539.33,2,Nisha Das
+ORD1984,6/28/2024,East,Office Supplies,Aarti Sharma,1116.41,9,Meena Joshi
+ORD1985,2/4/2024,East,Clothing,Sneha Jain,2632.03,1,Meena Joshi
+ORD1986,1/1/2024,West,Office Supplies,Ravi Mehra,3002.33,6,Suresh Iyer
+ORD1987,10/26/2024,North,Office Supplies,Ravi Mehra,3029.71,9,Meena Joshi
+ORD1988,5/21/2024,Central,Electronics,Aarti Sharma,1724.23,1,Arjun Kapoor
+ORD1989,9/6/2024,West,Office Supplies,Anil Kumar,3659.02,2,Nisha Das
+ORD1990,11/27/2024,East,Clothing,Ravi Mehra,2129.17,7,Nisha Das
+ORD1991,12/21/2024,East,Office Supplies,Neha Singh,3359.75,5,Vikram Rao
+ORD1992,7/23/2024,East,Furniture,Pooja Reddy,3624.14,2,Vikram Rao
+ORD1993,4/20/2024,Central,Office Supplies,Pooja Reddy,4732.73,6,Meena Joshi
+ORD1994,8/31/2024,West,Clothing,Rajesh Verma,4850.59,7,Aman Khan
+ORD1995,4/10/2024,South,Clothing,Rajesh Verma,172.26,4,Vikram Rao
+ORD1996,5/6/2024,West,Clothing,Rajesh Verma,2440.72,6,Nisha Das
+ORD1997,4/27/2024,West,Furniture,Sneha Jain,3624.86,6,Nisha Das
+ORD1998,1/7/2024,Central,Electronics,Rajesh Verma,4884.23,1,Preeti Nair
+ORD1999,4/19/2024,Central,Furniture,Ravi Mehra,966.54,2,Preeti Nair
